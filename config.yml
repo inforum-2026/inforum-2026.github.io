@@ -1,0 +1,104 @@
+baseURL: "https://YOUR-ORG.github.io/YOUR-REPO/"
+languageCode: "en-us"
+title: "MyConf 2026"
+theme: "hugo-conference"
+
+params:
+  # --- Hero section ---
+  name: "MyConf 2026"
+  description: "International Workshop on Formal Verification and Programming Languages"
+  date: "October 14–16, 2026"
+  city: "Lisbon, Portugal"
+  address: "Nova School of Science and Technology, Campus de Caparica"
+
+  # --- Twitter/X (optional) ---
+  # twitter: "myconf2026"
+
+  # --- Navigation ---
+  navbar:
+    - name: "About"
+      href: "#about"
+    - name: "Speakers"
+      href: "#speakers"
+    - name: "Schedule"
+      href: "#schedule"
+    - name: "Sponsors"
+      href: "#sponsors"
+
+  # --- About section ---
+  about:
+    description: >
+      MyConf is a venue for researchers and practitioners working on
+      programming language theory, formal verification, and software correctness.
+      We welcome submissions on type systems, proof assistants, static analysis,
+      and verified compilation.
+    website: "https://yourconference.org"
+
+  # --- Location ---
+  location:
+    name: "Nova SST"
+    address: "Campus de Caparica, 2829-516 Caparica, Portugal"
+    # Get an API key at https://developers.google.com/maps
+    mapsApiKey: "YOUR_GOOGLE_MAPS_API_KEY"
+    lat: 38.661
+    lng: -9.206
+
+  # --- Speakers ---
+  speakers:
+    - name: "Jane Doe"
+      company: "Inria"
+      link: "https://janedoe.example.com"
+      twitter: "janedoe"
+      bio: >
+        Jane works on verified compilation and the design of intermediate
+        representations for certified compilers.
+      image: "jane-doe.jpg"   # put in static/img/
+
+    - name: "John Smith"
+      company: "University of Edinburgh"
+      link: "https://johnsmith.example.com"
+      bio: >
+        John research focuses on dependent type theory and proof assistants,
+        with a particular interest in Rocq and Lean.
+      image: "john-smith.jpg"
+
+  # --- Schedule ---
+  schedule:
+    - time: "8:30"
+      name: "Registration and Coffee"
+    - time: "9:00"
+      name: "Opening Remarks"
+      speaker: "Organising Committee"
+    - time: "9:30"
+      name: "Keynote: Verified Compilation in the Wild"
+      speaker: "Jane Doe"
+      description: "A survey of the state of the art in certified compilers."
+    - time: "10:30"
+      name: "Coffee Break"
+    - time: "11:00"
+      name: "Session 1: Type Systems"
+    - time: "12:30"
+      name: "Lunch"
+    - time: "14:00"
+      name: "Session 2: Deductive Verification"
+    - time: "15:30"
+      name: "Coffee Break"
+    - time: "16:00"
+      name: "Keynote: OCaml Semantics and the Osiris Project"
+      speaker: "John Smith"
+    - time: "17:00"
+      name: "Panel Discussion"
+    - time: "18:00"
+      name: "Reception"
+
+  # --- Sponsors ---
+  sponsors:
+    - name: "FCT"
+      link: "https://www.fct.pt"
+      image: "fct-logo.png"   # put in static/img/
+
+  # --- Partners ---
+  partners:
+    - name: "Nova SST"
+      link: "https://www.fct.unl.pt"
+      image: "nova-logo.png"
