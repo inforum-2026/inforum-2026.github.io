@@ -1,0 +1,12 @@
+<nav id="nav">
+  <ul class="wrapper">
+    {{ range $section := $.Site.Params.Sections }}
+      <li class="nav-item">
+        <a href="#{{ $section }}" title="{{ $section | title }}" class="nav-link">
+          {{ $section | title }}
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>
+<hr>
