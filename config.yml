@@ -1,15 +1,15 @@
-baseURL: "https://YOUR-ORG.github.io/YOUR-REPO/"
-languageCode: "en-us"
-title: "MyConf 2026"
+baseURL: "https://inforum-2026.github.io/"
+languageCode: "pt-pt"
+title: "INForum 2026"
 theme: "hugo-conference"
 
 params:
   # --- Hero section ---
-  name: "MyConf 2026"
-  description: "International Workshop on Formal Verification and Programming Languages"
-  date: "October 14–16, 2026"
-  city: "Lisbon, Portugal"
-  address: "Nova School of Science and Technology, Campus de Caparica"
+  name: "INForum 2026"
+  description: "Décima Sétima Edição do Simpósio em Informática"
+  date: "Setembro 3–4, 2026"
+  city: "Lisboa, Portugal"
+  address: "Faculdade de Ciências e Tecnologia, Campus de Caparica"
 
   # --- Twitter/X (optional) ---
   # twitter: "myconf2026"
