@@ -15,15 +15,12 @@ params:
   # twitter: "myconf2026"
 
   # --- Navigation ---
-  navbar:
-    - name: "About"
-      href: "#about"
-    - name: "Speakers"
-      href: "#speakers"
-    - name: "Schedule"
-      href: "#schedule"
-    - name: "Sponsors"
-      href: "#sponsors"
+  sections:
+    - about
+    - speakers
+    - schedule
+    - sponsors
+    - location
 
   # --- About section ---
   about:
