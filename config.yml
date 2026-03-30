@@ -40,11 +40,11 @@ params:
     website: "https://yourconference.org"
 
   # --- Location ---
+  googleMapsKey: "AIzaSyAfd639IdTdczumfJw6Nmdvz769rK18Z6s"
+
   location:
     name: "Nova SST"
     address: "Campus de Caparica, 2829-516 Caparica, Portugal"
-    # Get an API key at https://developers.google.com/maps
-    mapsApiKey: "YOUR_GOOGLE_MAPS_API_KEY"
     lat: 38.661
     lng: -9.206
 
