@@ -14,6 +14,13 @@ params:
   # --- Twitter/X (optional) ---
   # twitter: "myconf2026"
 
+  titles:
+    about: "Sobre"
+    speakers: "Oradores"
+    schedule: "Programa"
+    sponsors: "Patrocinadores"
+    location: "Local"
+
   # --- Navigation ---
   sections:
     - about
