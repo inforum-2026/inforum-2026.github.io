@@ -108,4 +108,4 @@ params:
   partners:
     - name: "Nova SST"
       url: "https://www.fct.unl.pt"
-      logo: "static/img/logo_nova.png"
+      image: "logo_nova.png"
