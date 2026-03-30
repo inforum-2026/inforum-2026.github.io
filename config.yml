@@ -19,6 +19,7 @@ params:
     about: "Sobre"
     speakers: "Oradores"
     schedule: "Programa"
+    partners: "Apoios"
     sponsors: "Patrocinadores"
     location: "Local"
 
