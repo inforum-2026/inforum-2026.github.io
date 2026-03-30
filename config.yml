@@ -8,6 +8,7 @@ params:
   name: "INForum 2026"
   description: "Décima Sétima Edição do Simpósio em Informática"
   date: "Setembro 3–4, 2026"
+  venue: "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa"
   city: "Lisboa, Portugal"
   address: "Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Campus de Caparica"
 
