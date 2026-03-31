@@ -1,5 +1,8 @@
 <nav id="nav">
   <ul class="wrapper">
+    <li class="nav-item">
+      <img src="/img/logo_INForum.png" alt="INForum 2026" style="height: 40px; vertical-align: middle;">
+    </li>
     {{ range $section := $.Site.Params.Sections }}
       <li class="nav-item">
         <a href="#{{ $section }}" title="{{ index $.Site.Params.Titles $section }}" class="nav-link">
