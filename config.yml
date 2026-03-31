@@ -109,3 +109,6 @@ params:
     - name: "Nova SST"
       url: "https://www.fct.unl.pt"
       image: "logo_nova.png"
+    - name: "NOVA LINCS"
+      url: "https://nova-lincs.di.fct.unl.pt"
+      image: "logo_nova_lincs.svg"
