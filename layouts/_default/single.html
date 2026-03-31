@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+  <title>{{ .Title }} — {{ .Site.Params.Name }}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="stylesheet" type="text/css" href="/css/custom.css">
+</head>
+<body>
+  <div class="global">
+    {{ partial "nav.html" .Site }}
+    <div class="content" id="content">
+      <div class="wrapper">
+        <section class="about" style="padding: 40px 0">
+          {{ .Content }}
+        </section>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
