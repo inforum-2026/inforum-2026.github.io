@@ -49,5 +49,11 @@
     gtag('config', '{{ . }}');
   </script>
   {{ end }}
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+        document.querySelector('#nav .wrapper').classList.toggle('is-open');
+    });
+  </script>
 </body>
 </html>
