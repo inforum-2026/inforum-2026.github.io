@@ -5,13 +5,8 @@
   background-repeat: no-repeat;
 }
 
-.partner-logo {
-  border: none;
-  box-shadow: none;
-  outline: none;
-}
-
-.partner-logo img {
+.partner-link {
+  background: none;
   border: none;
   box-shadow: none;
 }
