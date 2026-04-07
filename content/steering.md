@@ -2,15 +2,15 @@
 title: "Steering Committee"
 ---
 
-# Organização
+## Organização
 
-## Presidência da Comissão de Programa
+### Presidência da Comissão de Programa
 
 | Nome              | Afiliação                                       |
 |-------------------|-------------------------------------------------|
 | Vasco Vasconcelos | Faculdade de Ciências, Univ. de Lisboa |
 
-## Comissão Organizadora
+### Comissão Organizadora
 
 | Nome                      | Afiliação                                                |
 |---------------------------|----------------------------------------------------------|
@@ -19,7 +19,7 @@ title: "Steering Committee"
 | André Lamurias            | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
 | Kevin Gallagher           | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
 
-## Comissão Coordenadora
+### Comissão Coordenadora
 
 
 | Nome             | Afiliação         |
