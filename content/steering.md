@@ -21,12 +21,15 @@ title: "Steering Committee"
 
 ### Comissão Coordenadora
 
+<div class="committee-table">
 
 | Nome             | Afiliação         |
 |------------------|-------------------|
 | Ana Paula Afonso | Univ. de Lisboa   |
 | Carla Ferreira   | Univ. NOVA Lisboa |
 |                  |                   |
+
+</div>
 
 <!-- Carlos Baquero – U. Porto -->
 <!-- Francisco Martins – U. Açores -->
