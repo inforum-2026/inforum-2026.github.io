@@ -2,9 +2,9 @@
 title: "Steering Committee"
 ---
 
-## Organização
+# Organização
 
-### Presidência da Comissão de Programa
+## Presidência da Comissão de Programa
 
 <div class="committee-table">
 
@@ -14,7 +14,7 @@ title: "Steering Committee"
 
 </div>
 
-### Comissão Organizadora
+## Comissão Organizadora
 
 <div class="committee-table">
 
@@ -27,7 +27,7 @@ title: "Steering Committee"
 
 </div>
 
-### Comissão Coordenadora
+## Comissão Coordenadora
 
 <div class="committee-table">
 
@@ -50,18 +50,3 @@ title: "Steering Committee"
 | Matilde Pato      | ISEL                              |
 
 </div>
-
-<!-- Carlos Baquero – U. Porto -->
-<!-- Francisco Martins – U. Açores -->
-<!-- Henrique Santos – U. Minho -->
-<!-- Irene Rodrigues – U. Évora -->
-<!-- Jácome Cunha – U. Porto -->
-<!-- João Leitão – U. NOVA Lisboa (Presidente) -->
-<!-- João Lourenço – U. NOVA Lisboa -->
-<!-- José Fonseca – I. P. Guarda -->
-<!-- Lúcio Ferrão – SolX -->
-<!-- Luís Pinto – U. Lisboa -->
-<!-- Luís Veiga – U. Lisboa -->
-<!-- Mário Freire – U. Beira Interior -->
-<!-- Matilde Pato – ISEL -->
-<!--           | -->
