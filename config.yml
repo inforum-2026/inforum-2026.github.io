@@ -3,6 +3,11 @@ languageCode: "pt-pt"
 title: "INForum 2026"
 theme: "hugo-conference"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   # --- Hero section ---
   name: "INForum 2026"
