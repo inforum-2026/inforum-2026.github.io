@@ -6,30 +6,25 @@ title: "Steering Committee"
 
 ### Presidência da Comissão de Programa
 
-| Nome              | Afiliação                                       |
-|-------------------|-------------------------------------------------|
+| Nome              | Afiliação                              |
+|-------------------|----------------------------------------|
 | Vasco Vasconcelos | Faculdade de Ciências, Univ. de Lisboa |
 
 ### Comissão Organizadora
 
-| Nome                      | Afiliação                                                |
-|---------------------------|----------------------------------------------------------|
-| Mário Pereira (Presidente | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
-| David Semedo              | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
-| André Lamurias            | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
-| Kevin Gallagher           | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
+| Nome                       | Afiliação                                                |
+|----------------------------|----------------------------------------------------------|
+| Mário Pereira (Presidente) | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
+| David Semedo               | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
+| André Lamurias             | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
+| Kevin Gallagher            | Faculdade de Ciências e Tecnologia, Univ. Nova de Lisboa |
 
 ### Comissão Coordenadora
-
-<div class="committee-table">
 
 | Nome             | Afiliação         |
 |------------------|-------------------|
 | Ana Paula Afonso | Univ. de Lisboa   |
 | Carla Ferreira   | Univ. NOVA Lisboa |
-|                  |                   |
-
-</div>
 
 <!-- Carlos Baquero – U. Porto -->
 <!-- Francisco Martins – U. Açores -->
