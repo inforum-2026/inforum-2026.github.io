@@ -232,3 +232,8 @@
     display: block;
   }
 }
+
+.wrapper {
+  max-width: 1400px !important;
+  width: 90% !important;
+}
