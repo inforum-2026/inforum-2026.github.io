@@ -48,6 +48,7 @@ title: "Steering Committee"
 | Lúcio Ferrão                 | SolX                        |
 | Luís Pinto                   | Univ. de Lisboa             |
 | Luís Veiga                   | Univ. de Lisboa             |
+| Pedro Salgueiro              | Univ. de Évora              |
 | Mário Freire                 | Univ. da Beira Interior     |
 | Matilde Pato                 | ISEL                        |
 
