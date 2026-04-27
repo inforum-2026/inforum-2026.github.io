@@ -9,6 +9,14 @@ markup:
       unsafe: true
 
 params:
+  previousEditions:
+    - name: "INForum 2025"
+      url: "https://inforum2025.example.pt"
+    - name: "INForum 2024"
+      url: "https://inforum2024.example.pt"
+    - name: "INForum 2023"
+      url: "https://inforum2023.example.pt"
+
   # --- Hero section ---
   name: "INForum 2026"
   description: "Décima Sétima Edição do Simpósio em Informática"
