@@ -1,4 +1,4 @@
-baseURL: "https://inforum-2026.github.io/"
+baseURL: "https://inforum.pt/"
 languageCode: "pt-pt"
 title: "INForum 2026"
 theme: "hugo-conference"
