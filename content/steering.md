@@ -10,6 +10,7 @@ title: "Steering Committee"
 
 | Nome              | Afiliação                              |
 |-------------------|----------------------------------------|
+| Ana Nunes Alonso  | Universidade do Minho                  |
 | Vasco Vasconcelos | Faculdade de Ciências, Univ. de Lisboa |
 
 </div>
