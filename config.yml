@@ -39,8 +39,8 @@ params:
   # --- Navigation ---
   sections:
     - about
-    - speakers
-    - schedule
+    # - speakers
+    # - schedule
     - sponsors
     - partners
     - location
