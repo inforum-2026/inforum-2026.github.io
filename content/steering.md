@@ -39,6 +39,8 @@ title: "Steering Committee"
 | Ana Paula Afonso             | Univ. de Lisboa             |
 | Carla Ferreira               | Univ. NOVA de Lisboa        |
 | Carlos Baquero               | Univ. do  Porto             |
+| Eugénio Ribeiro              | ISCTE                       |
+| Filipe Araújo                | Univ. de Coimbra            |
 | Francisco Martins            | Univ dos Açores             |
 | Henrique Santos              | Univ. do Minho              |
 | Irene Rodrigues              | Univ. de Évora              |
