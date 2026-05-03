@@ -114,10 +114,10 @@ params:
   # --- Sponsors ---
   sponsors:
     - name: "FCT"
-      link: "https://www.fct.pt"
+      url: "https://www.fct.pt"
       image: "fct-logo.png"   # put in static/img/
     - name: "UNINOVA"
-      link: "https://www.uninova.pt"
+      url: "https://www.uninova.pt"
       image: "logo_uninova.png"   # put in static/img/
 
   # --- Partners ---
