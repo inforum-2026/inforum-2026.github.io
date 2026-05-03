@@ -23,6 +23,15 @@
   box-shadow: none;
 }
 
+.sponsor-link img,
+.partner-link img {
+  max-height: 80px;
+  max-width: 200px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
 #nav {
   display: flex;
   flex-wrap: wrap;
