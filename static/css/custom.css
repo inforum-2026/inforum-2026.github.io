@@ -32,6 +32,22 @@
   object-fit: contain;
 }
 
+.sponsors-list,
+.partners-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.sponsor-item,
+.partner-item {
+  flex: 0 1 auto;
+}
+
 #nav {
   display: flex;
   flex-wrap: wrap;
