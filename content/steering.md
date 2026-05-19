@@ -1,5 +1,5 @@
 ---
-title: "Steering Committee"
+title: "Organização"
 ---
 
 # Organização
