@@ -22,8 +22,8 @@ title: "Organização"
 | Nome                                      | Afiliação                   |
 |-------------------------------------------|-----------------------------|
 | Mário Pereira **(Presidente)**            | Universidade NOVA de Lisboa |
-| David Semedo                              | Universidade NOVA de Lisboa |
 | André Lamurias                            | Universidade NOVA de Lisboa |
+| David Semedo                              | Universidade NOVA de Lisboa |
 | Kevin Gallagher                           | Universidade NOVA de Lisboa |
 | Ana Ribeiro **(Representante de Alunos)** | Universidade NOVA de Lisboa |
 | Ion Chirica **(Representante de Alunos)** | Universidade NOVA de Lisboa |
