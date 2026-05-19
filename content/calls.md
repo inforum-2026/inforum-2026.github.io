@@ -68,4 +68,4 @@ honrosas).
 
 Todas as submissões devem ser efetuadas através do sistema Easychair,
 disponível no endereço:
-[](https://easychair.org/conferences/?conf=inforum2026}).
+[https://easychair.org/conferences/?conf=inforum2026](https://easychair.org/conferences/?conf=inforum2026).
