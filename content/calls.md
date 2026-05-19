@@ -61,3 +61,5 @@ Air M5, prémio patrocinado pelo [UNINOVA](http://www.uninova.pt/).
 Todas as submissões devem ser efetuadas através do sistema Easychair,
 disponível no endereço:
 [https://easychair.org/conferences/?conf=inforum2026](https://easychair.org/conferences/?conf=inforum2026).
+
+## Sessões Temáticas (Tracks)

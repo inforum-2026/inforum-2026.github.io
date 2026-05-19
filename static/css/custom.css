@@ -285,12 +285,12 @@
 }
 
 .content ol {
-  list-style: decimal;
-  padding-left: 2em;
+  list-style: decimal !important;
+  padding-left: 2em !important;
   margin: 1em 0;
 }
 
 .content ol li {
+  display: list-item !important;
   margin-bottom: 0.75em;
-  display: list-item;
 }
