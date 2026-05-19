@@ -57,12 +57,15 @@ contribuição.
 **Cada tópico deverá selecionar o melhor artigo** de estudante
 seguindo um processo liderado pela sua CPT, com apoio da Presidência
 da Comissão de Programa (CP). Cada artigo indicado por cada tópico
-receberá um prémio. Uma comissão independente atribuirá o
-\textbf{prémio de melhor artigo do INForum} a um estudante de entre os
-artigos vencedores de cada tópico. A Presidência da CP e o Presidente
-da Comissão Organizadora integrarão a comissão para atribuição do
+receberá um prémio. Uma comissão independente atribuirá o **prémio de
+melhor artigo do INForum** a um estudante de entre os artigos
+vencedores de cada tópico. A Presidência da CP e o Presidente da
+Comissão Organizadora integrarão a comissão para atribuição do
 **prémio de melhor póster** de estudante (além de eventuais menções
 honrosas).
+
+O melhor artigo escrito por um aluno será distinguido com um MacBook
+Air M5, prémio patrocinado pelo [UNINOVA](http://www.uninova.pt/).
 
 ### Submissão
 
