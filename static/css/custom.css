@@ -283,3 +283,14 @@
 .content table th:last-child {
   width: 60%;
 }
+
+.content ol {
+  list-style: decimal;
+  padding-left: 2em;
+  margin: 1em 0;
+}
+
+.content ol li {
+  margin-bottom: 0.75em;
+  display: list-item;
+}
