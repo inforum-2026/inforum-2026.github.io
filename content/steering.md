@@ -8,9 +8,9 @@ title: "Organização"
 
 <div class="committee-table">
 
-| Nome              | Afiliação                              |
-|-------------------|----------------------------------------|
-| Ana Nunes Alonso  | Universidade do Minho                  |
+| Nome              | Afiliação              |
+|-------------------|------------------------|
+| Ana Nunes Alonso  | Universidade do Minho  |
 | Vasco Vasconcelos | Universidade de Lisboa |
 
 </div>
