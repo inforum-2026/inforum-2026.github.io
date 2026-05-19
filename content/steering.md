@@ -11,7 +11,7 @@ title: "Steering Committee"
 | Nome              | Afiliação                              |
 |-------------------|----------------------------------------|
 | Ana Nunes Alonso  | Universidade do Minho                  |
-| Vasco Vasconcelos | Faculdade de Ciências, Univ. de Lisboa |
+| Vasco Vasconcelos | Universidade de Lisboa |
 
 </div>
 
@@ -19,36 +19,36 @@ title: "Steering Committee"
 
 <div class="committee-table">
 
-| Nome                                      | Afiliação                                                |
-|-------------------------------------------|----------------------------------------------------------|
-| Mário Pereira **(Presidente)**            | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
-| David Semedo                              | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
-| André Lamurias                            | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
-| Kevin Gallagher                           | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
-|                                           |                                                          |
-| Ana Ribeiro **(Representante de Alunos)** | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
-| Ion Chirica **(Representante de Alunos)** | Faculdade de Ciências e Tecnologia, Univ. NOVA de Lisboa |
+| Nome                                      | Afiliação                   |
+|-------------------------------------------|-----------------------------|
+| Mário Pereira **(Presidente)**            | Universidade NOVA de Lisboa |
+| David Semedo                              | Universidade NOVA de Lisboa |
+| André Lamurias                            | Universidade NOVA de Lisboa |
+| Kevin Gallagher                           | Universidade NOVA de Lisboa |
+|                                           |                             |
+| Ana Ribeiro **(Representante de Alunos)** | Universidade NOVA de Lisboa |
+| Ion Chirica **(Representante de Alunos)** | Universidade NOVA de Lisboa |
 </div>
 
 ## Comissão Coordenadora
 
 <div class="committee-table">
 
-| Nome                           | Afiliação                   |
-|--------------------------------|-----------------------------|
-| Carla Ferreira                 | Univ. NOVA de Lisboa        |
-| Carlos Baquero                 | Univ. do  Porto             |
-| Eugénio Ribeiro                | ISCTE                       |
-| Filipe Araújo **(Presidente)** | Univ. de Coimbra            |
-| Francisco Martins              | Univ dos Açores             |
-| Irene Rodrigues                | Univ. de Évora              |
-| Jácome Cunha                   | Univ. do Porto              |
-| José Fonseca                   | Inst. Politécnico da Guarda |
-| Lúcio Ferrão                   | SolX                        |
-| Luís Pinto                     | Univ. de Lisboa             |
-| Luís Veiga                     | Univ. de Lisboa             |
-| Pedro Salgueiro                | Univ. de Évora              |
-| Mário Freire                   | Univ. da Beira Interior     |
-| Matilde Pato                   | ISEL                        |
+| Nome                           | Afiliação                      |
+|--------------------------------|--------------------------------|
+| Carla Ferreira                 | Universidade NOVA de Lisboa    |
+| Carlos Baquero                 | Universidade do  Porto         |
+| Eugénio Ribeiro                | ISCTE                          |
+| Filipe Araújo **(Presidente)** | Universidade de Coimbra        |
+| Francisco Martins              | Univ dos Açores                |
+| Irene Rodrigues                | Universidade de Évora          |
+| Jácome Cunha                   | Universidade do Porto          |
+| José Fonseca                   | Inst. Politécnico da Guarda    |
+| Lúcio Ferrão                   | SolX                           |
+| Luís Pinto                     | Universidade de Lisboa         |
+| Luís Veiga                     | Universidade de Lisboa         |
+| Pedro Salgueiro                | Universidade de Évora          |
+| Mário Freire                   | Universidade da Beira Interior |
+| Matilde Pato                   | ISEL                           |
 
 </div>
