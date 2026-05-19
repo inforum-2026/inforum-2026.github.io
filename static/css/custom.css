@@ -268,3 +268,18 @@
   max-width: 1400px !important;
   width: 90% !important;
 }
+
+.content table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.content table td:first-child,
+.content table th:first-child {
+  width: 40%;
+}
+
+.content table td:last-child,
+.content table th:last-child {
+  width: 60%;
+}
