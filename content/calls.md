@@ -41,6 +41,8 @@ comunicações têm um tamanho recomendado de 4 páginas, podendo ir até
 um limite de 12 páginas. As propostas de pósteres e de demonstrações
 devem ser realizadas no mesmo formato, com um máximo de 2 páginas.
 
+### Atas
+
 Nas atas para efeitos de arquivo constarão os artigos e as
 comunicações (os autores podem optar, após a submissão ser aceite,
 pela publicação integral com respetivamente 12 e 4 páginas, ou apenas
@@ -49,6 +51,8 @@ sumários de pósteres e demonstrações. Assim, todas as submissões
 aceites nas sessões temáticas do INForum 2026 serão listadas no
 programa final, tendo um documento oficial associado a essa
 contribuição.
+
+### Prémios
 
 **Cada tópico deverá selecionar o melhor artigo** de estudante
 seguindo um processo liderado pela sua CPT, com apoio da Presidência
@@ -59,3 +63,9 @@ artigos vencedores de cada tópico. A Presidência da CP e o Presidente
 da Comissão Organizadora integrarão a comissão para atribuição do
 **prémio de melhor póster** de estudante (além de eventuais menções
 honrosas).
+
+### Submissão
+
+Todas as submissões devem ser efetuadas através do sistema Easychair,
+disponível no endereço:
+[](https://easychair.org/conferences/?conf=inforum2026}).
