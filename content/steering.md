@@ -47,8 +47,8 @@ title: "Organização"
 | Lúcio Ferrão                   | SolX                           |
 | Luís Pinto                     | Universidade de Lisboa         |
 | Luís Veiga                     | Universidade de Lisboa         |
-| Pedro Salgueiro                | Universidade de Évora          |
 | Mário Freire                   | Universidade da Beira Interior |
 | Matilde Pato                   | ISEL                           |
+| Pedro Salgueiro                | Universidade de Évora          |
 
 </div>
