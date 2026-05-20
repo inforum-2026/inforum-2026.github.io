@@ -337,6 +337,7 @@ html body .content ul li {
 .dates-event {
   font-weight: bold;
   width: 80%;
+  white-space: nowrap;
 }
 
 .dates-date {
