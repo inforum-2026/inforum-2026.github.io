@@ -154,7 +154,29 @@ estudantes que desenvolvem trabalho na área.
 
 **Tópicos de Interesse:**
 
-**Membros da Comissão de Programa:** TBA
+**Membros da Comissão de Programa:**
+
+- Alex Davidson, LASIGE - FCUL **Chair**
+- João Resende, CRACS - INESCTEC / DCC-FCUP **Chair**
+- David Matos, INESC-ID and Instituto Superior Tecnico
+- Alan Sá, LASIGE and FCUL
+- Bernardo Portela, HASLab and FCUP
+- Chrysoula Vlachou, NOVA LINCS and NOVA University Lisbon
+- Filipe Casal, Trail of Bits
+- Ivone Amorim, GECAD-ISEP
+- Eva Maia, GECAD-ISEP
+- Joao Vilela, FCUP
+- Bernardo Ferreira, LASIGE and FCUL
+- Kevin Gallagher, NOVA LINCS and NOVA University Lisbon
+- Nuno Antunes, Guardsquare
+- Pedro Inácio, Universidade da Beira Interior
+- José Bacelar Almeida, University of Minho
+- José D'Abruzzo, University of Coimbra
+- João Marco, University of Minho
+- Manuel Barbosa, HASLab and FCUP
+- Miguel Pardal, Universidade de Lisboa
+- Mariana Cunha, UP/INESCTEC/CISUC
+
 
 </div>
 </div>
