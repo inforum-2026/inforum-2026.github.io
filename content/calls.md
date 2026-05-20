@@ -81,7 +81,7 @@ disponível no endereço:
 <button class="track-header">Ciência e Engenharia de Software (SOFT-PT)</button>
 <div class="track-body">
 
-**Tópicos:** TBA
+**Tópicos de Interesse:** TBA
 
 **Membros da Comissão de Programa:** TBA
 
@@ -92,7 +92,7 @@ disponível no endereço:
 <button class="track-header">Computação Paralela, Distribuída e de Larga Escala (CPDLA)</button>
 <div class="track-body">
 
-**Tópicos:** TBA
+**Tópicos de Interesse:** TBA
 
 **Membros da Comissão de Programa:** TBA
 
@@ -122,7 +122,7 @@ discussão e colaboração entre investigadores, profissionais e
 estudantes que desenvolvem trabalho na área.
 
 
-**Tópicos:**
+**Tópicos de Interesse:**
 
 - Aprendizagem automática
 - Representação do conhecimento e raciocínio
@@ -152,7 +152,7 @@ estudantes que desenvolvem trabalho na área.
 <button class="track-header">Segurança de Sistemas de Computadores e Comunicações (SSCC)</button>
 <div class="track-body">
 
-**Tópicos:**
+**Tópicos de Interesse:**
 
 **Membros da Comissão de Programa:** TBA
 
@@ -163,7 +163,73 @@ estudantes que desenvolvem trabalho na área.
 <button class="track-header"> Sistemas Conectados e Inteligentes: Redes, IoT e Sistemas Ciberfísicos (SCI-RISC)</button>
 <div class="track-body">
 
-**Tópicos:** TBA
+A engenharia informática atravessa uma fase de
+reestruturação/transformação, marcada pela convergência entre redes de
+comunicação de nova geração, computação distribuída e sistemas
+ciberfísicos. Esta convergência está a redesenhar infraestruturas
+críticas em domínios tão diversos como a mobilidade, a saúde, a
+energia, a indústria e o espaço, criando ecossistemas digitais que
+interagem de forma cada vez mais estrita com o mundo físico.
+
+O avanço das redes 5G e 6G, a proliferação de dispositivos IoT, o
+desenvolvimento de digital twins, a integração de inteligência
+artificial em todos os níveis dos sistemas distribuídos e a crescente
+autonomia dos sistemas ciberfísicos impõem novos desafios à comunidade
+científica e técnica. Estes desafios estendem-se da arquitetura das
+redes e da gestão eficiente de recursos computacionais à garantia de
+propriedades essenciais, como a fiabilidade, a segurança, a
+privacidade, a sustentabilidade e a confiabilidade dos sistemas
+autónomos, impactando diretamente a sociedade, na medida em que estes
+sistemas suportam serviços essenciais e moldam a forma como as
+pessoas, as organizações e as máquinas interagem entre si.
+
+Este tópico tem como objetivo reunir contribuições originais que
+avancem o estado da arte em qualquer uma das dimensões deste
+ecossistema, desde as comunicações e infraestruturas computacionais
+até os sistemas ciberfísicos e IoT, incluindo a inteligência
+artificial aplicada a sistemas conectados, nos diferentes domínios
+aplicacionais.
+
+Apela-se à submissão de artigos e comunicações com resultados
+teóricos, soluções técnicas, plataformas experimentais ou casos de
+estudo, contribuindo para uma reflexão integrada sobre o presente e o
+futuro dos sistemas conectados e inteligentes.
+
+**Tópicos de Interesse:**
+
+1. Redes e comunicações
+
+    - Sistemas e arquiteturas de comunicação 5G/6G
+    - Redes não-terrestres e integração satélite-terrestre
+    - Redes cloud-native e softwarização de redes (SDN/NFV, Open RAN)
+    - Time-sensitive networking e comunicações determinísticas
+    - Redes de sensores sem fios, mesh, veiculares e UAV
+    - Comunicações eficientes em energia e sustentáveis
+
+2. Computação distribuída e edge
+
+    - Edge computing e edge intelligence
+    - Orquestração de redes, automação e gestão intent-based
+    - Sistemas distribuídos em tempo real e dependable
+    - Sistemas embebidos e co-design hardware/software
+
+3. Sistemas ciberfísicos e IoT
+   - Cyber-Physical Systems (CPS) e Systems-of-Systems
+   - IoT industrial e aplicações Industry 4.0
+   - Digital twins para sistemas de comunicação e ciberfísicos
+   - Sistemas mission-critical e safety-critical
+   - Sistemas autónomos cooperativos e robótica
+
+4. Inteligência artificial para sistemas conectados
+   - AI/ML para redes de comunicação e CPS
+   - Edge AI para IoT e aplicações ciberfísicas
+   - Aprendizagem federada e distribuída
+   - Sistemas inteligentes confiáveis, seguros e explicáveis
+
+5. Aplicações e domínios verticais
+   - Infraestruturas digitais para cidades inteligentes e indústria inteligente
+   - Aplicações em saúde, mobilidade, energia, agricultura e aeroespacial
+   - Cibersegurança
 
 **Membros da Comissão de Programa:** TBA
 
