@@ -345,3 +345,68 @@ html body .content ul li {
   width: 20%;
   text-align: right;
 }
+
+.tracks {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.track {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+
+.track-header {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 14px 16px;
+  text-align: left;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.2s ease;
+}
+
+.track-header::after {
+  content: '▸';
+  font-size: 1rem;
+  transition: transform 0.2s ease;
+}
+
+.track-header.is-open::after {
+  transform: rotate(90deg);
+}
+
+.track-header:hover {
+  background-color: #555;
+}
+
+.track-body {
+  display: none;
+  padding: 16px 20px;
+  background-color: #fafafa;
+  border-top: 1px solid #ddd;
+}
+
+.track-body.is-open {
+  display: block;
+}
+
+.track-body ul {
+  list-style: disc !important;
+  list-style-type: disc !important;
+  padding-left: 2em !important;
+  margin: 8px 0 !important;
+}
+
+.track-body ul li {
+  font-size: 1rem !important;
+  margin-bottom: 4px !important;
+}

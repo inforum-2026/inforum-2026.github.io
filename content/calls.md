@@ -75,12 +75,94 @@ disponível no endereço:
 
 ## Sessões Temáticas (Tracks)
 
-- Ciência e Engenharia de Software (SOFT-PT)
+<div class="tracks">
 
-- Computação Paralela, Distribuída e de Larga Escala (CPDLA)
+<div class="track">
+<button class="track-header">Ciência e Engenharia de Software (SOFT-PT)</button>
+<div class="track-body">
 
-- Inteligência Artificial e Ciência de Dados (IACD)
+**Tópicos:** Engenharia de requisitos, arquitetura de software, testes, qualidade de software, métodos formais, DevOps.
 
-- Segurança de Sistemas de Computadores e Comunicações (SSCC)
+**Membros da Comissão de Programa:**
+- Nome Apelido, Universidade X
+- Nome Apelido, Universidade Y
 
-- Sistemas Conectados e Inteligentes (SCI-RISC)
+**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+</div>
+</div>
+
+<div class="track">
+<button class="track-header">Computação Paralela, Distribuída e de Larga Escala (CPDLA)</button>
+<div class="track-body">
+
+**Tópicos:** Computação paralela, sistemas distribuídos, cloud computing, HPC.
+
+**Membros da Comissão de Programa:**
+- Nome Apelido, Universidade X
+- Nome Apelido, Universidade Y
+
+**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+</div>
+</div>
+
+<div class="track">
+<button class="track-header">Inteligência Artificial e Ciência de Dados (IACD)</button>
+<div class="track-body">
+
+**Tópicos:** Machine learning, deep learning, processamento de linguagem natural, visão computacional.
+
+**Membros da Comissão de Programa:**
+- Nome Apelido, Universidade X
+- Nome Apelido, Universidade Y
+
+**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+</div>
+</div>
+
+<div class="track">
+<button class="track-header">Segurança de Sistemas de Computadores e Comunicações (SSCC)</button>
+<div class="track-body">
+
+**Tópicos:** Criptografia, segurança de redes, privacidade, cibersegurança.
+
+**Membros da Comissão de Programa:**
+- Nome Apelido, Universidade X
+- Nome Apelido, Universidade Y
+
+**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+</div>
+</div>
+
+<div class="track">
+<button class="track-header">Sistemas Conectados e Inteligentes (SCI-RISC)</button>
+<div class="track-body">
+
+**Tópicos:** IoT, sistemas embebidos, robótica, computação ubíqua.
+
+**Membros da Comissão de Programa:**
+- Nome Apelido, Universidade X
+- Nome Apelido, Universidade Y
+
+**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+</div>
+</div>
+
+</div>
+
+
+<!-- ## Sessões Temáticas (Tracks) -->
+
+<!-- - Ciência e Engenharia de Software (SOFT-PT) -->
+
+<!-- - Computação Paralela, Distribuída e de Larga Escala (CPDLA) -->
+
+<!-- - Inteligência Artificial e Ciência de Dados (IACD) -->
+
+<!-- - Segurança de Sistemas de Computadores e Comunicações (SSCC) -->
+
+<!-- - Sistemas Conectados e Inteligentes (SCI-RISC) -->
