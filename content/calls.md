@@ -121,7 +121,6 @@ Artificial e Ciência de Dados, proporcionando um espaço de partilha,
 discussão e colaboração entre investigadores, profissionais e
 estudantes que desenvolvem trabalho na área.
 
-
 **Tópicos de Interesse:**
 
 - Aprendizagem automática
@@ -141,7 +140,6 @@ estudantes que desenvolvem trabalho na área.
 - Equidade, ética e confiança em IA
 - IA para a saúde
 - Outras aplicações de IA e Ciência de Dados
-
 
 **Membros da Comissão de Programa:** TBA
 
@@ -176,7 +174,6 @@ estudantes que desenvolvem trabalho na área.
 - Manuel Barbosa, HASLab and FCUP
 - Miguel Pardal, Universidade de Lisboa
 - Mariana Cunha, UP/INESCTEC/CISUC
-
 
 </div>
 </div>
