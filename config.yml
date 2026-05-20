@@ -32,6 +32,7 @@ params:
     about: "INForum 2026"
     # speakers: "Oradores"
     # schedule: "Programa"
+    dates: "Datas Importantes"
     partners: "Apoios"
     sponsors: "Patrocinadores"
     location: "Local"
@@ -41,6 +42,7 @@ params:
     - about
     # - speakers
     # - schedule
+    - dates
     - sponsors
     - partners
     - location
@@ -110,6 +112,24 @@ params:
   #     name: "Panel Discussion"
   #   - time: "18:00"
   #     name: "Reception"
+
+  dates:
+    - event: "Submissão de resumos artigos"
+      date: "13 de Junho de 2026"
+    - event: "Submissão de artigos"
+      date: "20 de Junho de 2026"
+    - event: "Notificação aos autores dos artigos"
+      date: "7 de Julho de 2026"
+    - event: "Submissão de comunicações, pósteres e demonstrações"
+      date: "10 de Julho de 2026"
+    - event: "Submissão de versões finais de artigos"
+      date: "17 de Julho de 2026"
+    - even: "Notificação aos autores das comunicações, pósteres e demonstrações"
+      date: "17 de Julho de 2026"
+    - event: "Submissão de versões finais de comunicações, pósteres e demonstrações"
+      date: "29 de Julho de 2026"
+    - event: "Evento no Monte da Caparica"
+      date: "3 e 4 de Setembro de 2026"
 
   # --- Sponsors ---
   sponsors:
