@@ -81,13 +81,9 @@ disponível no endereço:
 <button class="track-header">Ciência e Engenharia de Software (SOFT-PT)</button>
 <div class="track-body">
 
-**Tópicos:** Engenharia de requisitos, arquitetura de software, testes, qualidade de software, métodos formais, DevOps.
+**Tópicos:** TBA
 
-**Membros da Comissão de Programa:**
-- Nome Apelido, Universidade X
-- Nome Apelido, Universidade Y
-
-**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+**Membros da Comissão de Programa:** TBA
 
 </div>
 </div>
@@ -96,13 +92,9 @@ disponível no endereço:
 <button class="track-header">Computação Paralela, Distribuída e de Larga Escala (CPDLA)</button>
 <div class="track-body">
 
-**Tópicos:** Computação paralela, sistemas distribuídos, cloud computing, HPC.
+**Tópicos:** TBA
 
-**Membros da Comissão de Programa:**
-- Nome Apelido, Universidade X
-- Nome Apelido, Universidade Y
-
-**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+**Membros da Comissão de Programa:** TBA
 
 </div>
 </div>
@@ -111,13 +103,9 @@ disponível no endereço:
 <button class="track-header">Inteligência Artificial e Ciência de Dados (IACD)</button>
 <div class="track-body">
 
-**Tópicos:** Machine learning, deep learning, processamento de linguagem natural, visão computacional.
+**Tópicos:** TBA
 
-**Membros da Comissão de Programa:**
-- Nome Apelido, Universidade X
-- Nome Apelido, Universidade Y
-
-**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+**Membros da Comissão de Programa:** TBA
 
 </div>
 </div>
@@ -126,28 +114,57 @@ disponível no endereço:
 <button class="track-header">Segurança de Sistemas de Computadores e Comunicações (SSCC)</button>
 <div class="track-body">
 
-**Tópicos:** Criptografia, segurança de redes, privacidade, cibersegurança.
+A Inteligência Artificial e a Ciência de Dados (IACD) assumem hoje um
+papel central na transformação científica, tecnológica e social,
+oferecendo novos métodos para compreender sistemas complexos,
+automatizar processos, apoiar a tomada de decisão e gerar conhecimento
+a partir de dados. O desenvolvimento de algoritmos de aprendizagem
+automática, raciocínio e interação está a transformar setores como a
+saúde, a indústria, as finanças, a administração pública e muitos
+outros. Esta evolução tem sido impulsionada pela crescente
+disponibilidade de grandes volumes de dados, pelo aumento da
+capacidade computacional e pelo amadurecimento das técnicas de IA e
+CD, incluindo redes neuronais profundas e modelos generativos.
 
-**Membros da Comissão de Programa:**
-- Nome Apelido, Universidade X
-- Nome Apelido, Universidade Y
+Neste contexto, esta sessão temática pretende reunir contributos que
+explorem avanços teóricos, metodológicos e aplicados em Inteligência
+Artificial e Ciência de Dados, proporcionando um espaço de partilha,
+discussão e colaboração entre investigadores, profissionais e
+estudantes que desenvolvem trabalho na área.
 
-**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+
+**Tópicos:**
+
+• Aprendizagem automática
+• Representação do conhecimento e raciocínio
+• Agentes inteligentes
+• Análise de dados
+• Extração de conhecimento de dados
+• Visualização de dados
+• Procura e planeamento
+• Satisfação de restrições
+• Processamento de linguagem natural
+• Visão computacional
+• Bioinformática
+• Teoria de jogos
+• Incerteza em IA
+• Interação Humano-IA
+• Equidade, ética e confiança em IA
+• IA para a saúde
+• Outras aplicações de IA e Ciência de Dados
+
+**Membros da Comissão de Programa:** TBA
 
 </div>
 </div>
 
 <div class="track">
-<button class="track-header">Sistemas Conectados e Inteligentes (SCI-RISC)</button>
+<button class="track-header"> Sistemas Conectados e Inteligentes: Redes, IoT e Sistemas Ciberfísicos (SCI-RISC)</button>
 <div class="track-body">
 
-**Tópicos:** IoT, sistemas embebidos, robótica, computação ubíqua.
+**Tópicos:** TBA
 
-**Membros da Comissão de Programa:**
-- Nome Apelido, Universidade X
-- Nome Apelido, Universidade Y
-
-**Submissões:** [EasyChair](https://easychair.org/conferences/?conf=inforum2026)
+**Membros da Comissão de Programa:** TBA
 
 </div>
 </div>
