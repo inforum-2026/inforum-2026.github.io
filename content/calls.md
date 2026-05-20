@@ -75,12 +75,12 @@ disponível no endereço:
 
 ## Sessões Temáticas (Tracks)
 
-* Ciência e Engenharia de Software (SOFT-PT)
+- Ciência e Engenharia de Software (SOFT-PT)
 
-* Computação Paralela, Distribuída e de Larga Escala (CPDLA)
+- Computação Paralela, Distribuída e de Larga Escala (CPDLA)
 
-* Inteligência Artificial e Ciência de Dados (IACD)
+- Inteligência Artificial e Ciência de Dados (IACD)
 
-* Segurança de Sistemas de Computadores e Comunicações (SSCC)
+- Segurança de Sistemas de Computadores e Comunicações (SSCC)
 
-* Sistemas Conectados e Inteligentes (SCI-RISC)
+- Sistemas Conectados e Inteligentes (SCI-RISC)
