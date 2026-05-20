@@ -103,17 +103,6 @@ disponível no endereço:
 <button class="track-header">Inteligência Artificial e Ciência de Dados (IACD)</button>
 <div class="track-body">
 
-**Tópicos:** TBA
-
-**Membros da Comissão de Programa:** TBA
-
-</div>
-</div>
-
-<div class="track">
-<button class="track-header">Segurança de Sistemas de Computadores e Comunicações (SSCC)</button>
-<div class="track-body">
-
 A Inteligência Artificial e a Ciência de Dados (IACD) assumem hoje um
 papel central na transformação científica, tecnológica e social,
 oferecendo novos métodos para compreender sistemas complexos,
@@ -135,23 +124,35 @@ estudantes que desenvolvem trabalho na área.
 
 **Tópicos:**
 
-• Aprendizagem automática
-• Representação do conhecimento e raciocínio
-• Agentes inteligentes
-• Análise de dados
-• Extração de conhecimento de dados
-• Visualização de dados
-• Procura e planeamento
-• Satisfação de restrições
-• Processamento de linguagem natural
-• Visão computacional
-• Bioinformática
-• Teoria de jogos
-• Incerteza em IA
-• Interação Humano-IA
-• Equidade, ética e confiança em IA
-• IA para a saúde
-• Outras aplicações de IA e Ciência de Dados
+- Aprendizagem automática
+- Representação do conhecimento e raciocínio
+- Agentes inteligentes
+- Análise de dados
+- Extração de conhecimento de dados
+- Visualização de dados
+- Procura e planeamento
+- Satisfação de restrições
+- Processamento de linguagem natural
+- Visão computacional
+- Bioinformática
+- Teoria de jogos
+- Incerteza em IA
+- Interação Humano-IA
+- Equidade, ética e confiança em IA
+- IA para a saúde
+- Outras aplicações de IA e Ciência de Dados
+
+
+**Membros da Comissão de Programa:** TBA
+
+</div>
+</div>
+
+<div class="track">
+<button class="track-header">Segurança de Sistemas de Computadores e Comunicações (SSCC)</button>
+<div class="track-body">
+
+**Tópicos:**
 
 **Membros da Comissão de Programa:** TBA
 
