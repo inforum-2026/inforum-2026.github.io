@@ -298,19 +298,19 @@ section.about ol {
   padding-left: 2em !important;
 }
 
-.content ul,
-.content ul li,
-section.about ul,
-section.about ul li {
+html body .content ul,
+html body .content ul li,
+html body section.about ul,
+html body section.about ul li {
   list-style: disc !important;
   list-style-type: disc !important;
 }
 
-section.about ul {
+html body section.about ul {
   padding-left: 2em !important;
 }
 
-.content ul li {
+html body .content ul li {
   font-size: 1rem !important;
   margin-bottom: 0.75em;
 }
