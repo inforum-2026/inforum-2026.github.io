@@ -297,3 +297,20 @@ section.about ol li {
 section.about ol {
   padding-left: 2em !important;
 }
+
+.content ul,
+.content ul li,
+section.about ul,
+section.about ul li {
+  list-style: disc !important;
+  list-style-type: disc !important;
+}
+
+section.about ul {
+  padding-left: 2em !important;
+}
+
+.content ul li {
+  font-size: 1rem !important;
+  margin-bottom: 0.75em;
+}
