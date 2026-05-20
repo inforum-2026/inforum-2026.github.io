@@ -92,9 +92,63 @@ disponível no endereço:
 <button class="track-header">Computação Paralela, Distribuída e de Larga Escala (CPDLA)</button>
 <div class="track-body">
 
-**Tópicos de Interesse:** TBA
+As comunidades industrial e académica têm mostrado um interesse
+crescente em maximizar e otimizar a utilização dos recursos
+computacionais através do desenvolvimento e utilização de sistemas
+paralelos, distribuídos e de larga escala. Assim, a motivação para uma
+sessão na área da Computação Paralela, Distribuída e de Larga Escala
+(CPDLA) advém naturalmente da importância crescente que esta área assume
+nos vários setores da sociedade.
 
-**Membros da Comissão de Programa:** TBA
+A computação paralela e os sistemas distribuídos são áreas clássicas da
+Informática, contando com décadas de eventos e de publicações
+científicas. Esta área envolve um conjunto relevante e alargado de
+temas, como o uso de processadores gráficos para computação geral; os
+sistemas de bases de dados de elevado desempenho; os sistemas
+distribuídos de grande escala suportados por diferentes tipos de nuvens
+computacionais, proporcionando sinergias e colaborações entre a
+comunidade científica e a indústria nacional e internacional. O estudo
+destes temas é apoiado e patrocinado por entidades internacionais como a
+ACM, IEEE, USENIX e IFIP.
+
+Esta sessão de CPDLA pretende reunir num mesmo fórum de discussão todos
+aqueles que em Portugal desenvolvem trabalho nesta área, seja este de
+índole científica, técnica, ou de transferência de tecnologia
+proveniente tanto da comunidade académica como do tecido empresarial.
+Procuramos a submissão de artigos (em português ou inglês) na área da
+Computação Paralela, Distribuída e de Larga Escala no seu sentido lato,
+sendo ilustrada, de forma não exaustiva, pela lista de tópicos de
+interesse desta sessão.
+
+**Tópicos de Interesse:**
+
+- Sistemas Entre-Pares e Computação na Periferia da Rede
+- Arquiteturas, Middleware, Runtimes e Aplicações de Alto Desempenho
+- Sistemas Robustos, Replicados e Geo-Distribuídos
+- Computação Escalável e de Alto Desempenho
+- Grid, Utility e Cloud Computing
+- Computação Autonómica
+- Computação Paralela com Aceleradores (GPGPU, FPGA)
+- Aplicações de Grande Escala e Big Data
+- Suporte e Gestão de Hardware Inovador (e.g., Memórias Persistentes,
+  Processor in Mmeory, HTM)
+- Segurança e Privacidade
+
+**Membros da Comissão de Programa:**
+
+- Vinicius V. Cogo (FC.UL / LASIGE) — **Chair**
+- João M. Lourenço (FCT.UNL / NOVA-LINCS) — **Chair**
+- Hervé Paulino (FCT.UNL / NOVA-LINCS)
+- Hugo Miranda (FC.UL / LASIGE)
+- João Paulo Barraca (U.Aveiro / Instituto de Telecomunicações)
+- José Simão (ISEL.IPL / INESC-ID Lisboa)
+- Luis Rodrigues (IST.UL / INESC-ID Lisboa)
+- Luís Veiga (IST.UL / INESC-ID Lisboa)
+- Noelia Correia (U.Algarve)
+- Nuno Neves (FC.UL / LASIGE)
+- Paula Prata (UBI / Instituto de Telecomunicações)
+- Rolando Martins (FC.UP)
+- Salvador Abreu (U.Évora / LISP, CRI)
 
 </div>
 </div>
@@ -154,26 +208,26 @@ estudantes que desenvolvem trabalho na área.
 
 **Membros da Comissão de Programa:**
 
-- Alex Davidson, LASIGE - FCUL **Chair**
-- João Resende, CRACS - INESCTEC / DCC-FCUP **Chair**
-- David Matos, INESC-ID and Instituto Superior Tecnico
-- Alan Sá, LASIGE and FCUL
-- Bernardo Portela, HASLab and FCUP
-- Chrysoula Vlachou, NOVA LINCS and NOVA University Lisbon
-- Filipe Casal, Trail of Bits
-- Ivone Amorim, GECAD-ISEP
-- Eva Maia, GECAD-ISEP
-- Joao Vilela, FCUP
-- Bernardo Ferreira, LASIGE and FCUL
-- Kevin Gallagher, NOVA LINCS and NOVA University Lisbon
-- Nuno Antunes, Guardsquare
-- Pedro Inácio, Universidade da Beira Interior
-- José Bacelar Almeida, University of Minho
-- José D'Abruzzo, University of Coimbra
-- João Marco, University of Minho
-- Manuel Barbosa, HASLab and FCUP
-- Miguel Pardal, Universidade de Lisboa
-- Mariana Cunha, UP/INESCTEC/CISUC
+- Alex Davidson (LASIGE/FCUL) -- **Chair**
+- João Resende (CRACS - INESCTEC / DCC-FCUP) -- **Chair**
+- David Matos (INESC-ID / Instituto Superior Tecnico)
+- Alan Sá (LASIGE / FCUL)
+- Bernardo Portela (HASLab / FCUP)
+- Chrysoula Vlachou (NOVA LINCS / NOVA University Lisbon)
+- Filipe Casal (Trail of Bits)
+- Ivone Amorim (GECAD-ISEP)
+- Eva Maia (GECAD-ISEP)
+- Joao Vilela (FCUP)
+- Bernardo Ferreira (LASIGE / FCUL)
+- Kevin Gallagher (NOVA LINCS / NOVA University Lisbon)
+- Nuno Antunes (Guardsquare)
+- Pedro Inácio (Universidade da Beira Interior)
+- José Bacelar Almeida (University of Minho)
+- José D'Abruzzo (University of Coimbra)
+- João Marco (University of Minho)
+- Manuel Barbosa (HASLab / FCUP)
+- Miguel Pardal (Universidade de Lisboa)
+- Mariana Cunha (UP/INESCTEC/CISUC)
 
 </div>
 </div>
