@@ -20,7 +20,7 @@ associada (uma inscrição apenas pode estar associada a um submissão).
 .reg-table th { padding: 10px 16px; text-align: left; font-weight: 600; font-size: 13px; color: #555; text-transform: uppercase; letter-spacing: 0.04em; }
 .reg-table th:not(:first-child) { text-align: center; }
 .reg-table td { padding: 14px 16px; border-bottom: 1px solid #f0f0f0; color: #222; vertical-align: middle; }
-.reg-table td:not(:first-child) { text-align: center; font-weight: 600; }
+.reg-table td:not(:first-child) { text-align: center; font-weight: 600; white-space: nowrap; }
 .reg-table tr:last-child td { border-bottom: none; }
 .reg-badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 99px; margin-right: 8px; }
 .badge-early  { background: #e8f5e9; color: #2e7d32; }
