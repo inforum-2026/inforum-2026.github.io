@@ -290,6 +290,8 @@ section.about ol,
 section.about ol li {
   list-style: decimal !important;
   list-style-type: decimal !important;
+  font-size: 1rem !important;
+  margin-bottom: 0.75em;
 }
 
 section.about ol {
