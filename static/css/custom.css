@@ -336,10 +336,11 @@ html body .content ul li {
 
 .dates-event {
   font-weight: bold;
-  width: 70%;
+  width: 80%;
 }
 
 .dates-date {
   color: #555;
-  width: 30%;
+  width: 20%;
+  text-align: right;
 }
