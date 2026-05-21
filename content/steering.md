@@ -41,6 +41,7 @@ title: "Organização"
 | Filipe Araújo **(Presidente)** | Universidade de Coimbra        |
 | Francisco Martins              | Univ dos Açores                |
 | Irene Rodrigues                | Universidade de Évora          |
+| João Lourenço                  | Universidade NOVA de Lisboa    |
 | Jácome Cunha                   | Universidade do Porto          |
 | José Fonseca                   | Inst. Politécnico da Guarda    |
 | Lúcio Ferrão                   | SolX                           |
