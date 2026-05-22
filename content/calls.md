@@ -195,7 +195,32 @@ estudantes que desenvolvem trabalho na área.
 - IA para a saúde
 - Outras aplicações de IA e Ciência de Dados
 
-**Membros da Comissão de Programa:** TBA
+**Membros da Comissão de Programa:**
+
+- Eugénio Ribeiro (ISCTE - Instituto Universitário de Lisboa)
+- Diogo Soares (Faculdade de Ciências da Universidade de Lisboa)
+- Ana Rita Peixoto (ISCTE - Instituto Universitário de Lisboa)
+- Joana Santos (Faculdade de Ciências da Universidade de Lisboa)
+- Adelaide Figueiredo (Universidade do Porto)
+- Alberto Simões (Instituto Politécnico do Cávado e do Ave)
+- Ana Maria de Almeida (ISCTE - Instituto Universitário de Lisboa)
+- António Lopes (ISCTE - Instituto Universitário de Lisboa)
+- Artur Ferreira (Instituto Superior de Engenharia de Lisboa)
+- Cátia Pesquita (Faculdade de Ciências da Universidade de Lisboa)
+- Cátia Vaz (Instituto Superior de Engenharia de Lisboa)
+- Daniela Schmidt (Universidade de Évora)
+- David Calhas (University of Ljubljana)
+- Elsa Cardoso (ISCTE - Instituto Universitário de Lisboa)
+- Filipa Correia (Instituto Superior Técnico, Universidade de Lisboa)
+- Luís Correia (Faculdade de Ciências da Universidade de Lisboa)
+- Luís Ferreira (Instituto Politécnico do Cávado e do Ave)
+- Nuno Domingues (Instituto Superior de Engenharia de Lisboa)
+- Nuno Leite (Instituto Superior de Engenharia de Lisboa)
+- Paulo Quaresma (Universidade de Évora)
+- Pedro Santana (ISCTE - Instituto Universitário de Lisboa)
+- Pedro T. Monteiro (Instituto Superior Técnico, Universidade de Lisboa)
+- Tiago Guerreiro (Faculdade de Ciências da Universidade de Lisboa)
+- Vânia Mendonça (Faculdade de Ciências da Universidade de Lisboa)
 
 </div>
 </div>
@@ -304,7 +329,38 @@ futuro dos sistemas conectados e inteligentes.
    - Aplicações em saúde, mobilidade, energia, agricultura e aeroespacial
    - Cibersegurança
 
-**Membros da Comissão de Programa:** TBA
+**Membros da Comissão de Programa:
+
+- Vítor Cunha (UA) -- **Chair**
+- José Cecílio (LASIGE/FCUL) -- **Chair**
+- Aleksandar Ilic (INESC-ID/IST)
+- Amaro Sousa (UA)
+- António Casimiro (LASIGE/FCUL)
+- Augusto Casaca (IST-U.Lisboa)
+- Carlos Almeida (IST-U.Lisboa)
+- Filipe Cabral Pinto (Altice Labs)
+- João Bispo (FEUP/INESC-TEC)
+- João Cunha (ISEC – IPCoimbra / CISUC)
+- Joaquim Ferreira (IT/ESTGA-UAveiro)
+- Jorge Sá Silva (UC)
+- José Cecílio (LASIGE/FCUL)
+- Leonel Santos (IPL)
+- Luís Lino Ferreira (ISEP)
+- Maria Clara Silveira (IPG)
+- Noélia Correia (Ualg)
+- Nuno Macedo (INESC TEC / Universidade do Porto)
+- Paulo Bartolomeu (IT/DETI-UAveiro)
+- Paulo Pedreiras (IT/DETI-UAveiro)
+- Pedro Ferreira (LASIGE/FCUL)
+- Pedro Fonseca (IT/UAveiro)
+- Pedro Sousa (UMinho)
+- Ricardo Severino (ISEP-IPP)
+- Rui Campos (FEUP/INESC-TEC)
+- Salviano Filipe Silva Pinto Soares (UTAD)
+- Sandro Pinto (UMinho)
+- Sérgio Crisóstomo (FEUP/INESC-TEC)
+- Solange Rito Lima (UMinho)
+- Vasco Pereira (UC)
 
 </div>
 </div>
