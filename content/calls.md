@@ -81,7 +81,31 @@ disponível no endereço:
 <button class="track-header">Ciência e Engenharia de Software (SOFT-PT)</button>
 <div class="track-body">
 
-**Tópicos de Interesse:** TBA
+O SOFT-PT (Ciência e Engenharia de Software) é um encontro de
+investigadores académicos e industriais que trabalham em temas
+relacionados com a ciência e engenharia de software, unindo a teoria à
+prática através de princípios, metodologias, sistemas e ferramentas. O
+SOFT-PT, que teve já 15 edições no Inforum, estabeleceu-se como um
+ponto de encontro privilegiado para os especialistas nacionais com
+interesse nesta área.
+
+**Tópicos de Interesse:**
+
+As contribuições espera das são trabalhos originais em todos os
+tópicos relacionados com o software, nomeadamente (mas não apenas)
+trabalhos que se enquadrem nas seguintes áreas:
+
+- Modelos de computação e de programação
+- Fundamentos da engenharia de software
+- Metodologias de desenvolvimento de software
+- Princípios, desenho e implementação de linguagens de programação e de modelação
+- Especificação, análise, verificação, validação e testes de software
+- Segurança e fiabilidade de software
+- Análise de requisitos e arquiteturas de software
+- Processos de desenvolvimento, manutenção e qualidade de software
+- Ambientes e ferramentas para o desenvolvimento de software
+- Desenho e análise de algoritmos, pesquisa e optimização
+- Casos de estudo e relatos de experiências na indústria de software
 
 **Membros da Comissão de Programa:** TBA
 
