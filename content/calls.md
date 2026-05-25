@@ -107,7 +107,9 @@ trabalhos que se enquadrem nas seguintes áreas:
 - Desenho e análise de algoritmos, pesquisa e optimização
 - Casos de estudo e relatos de experiências na indústria de software
 
-**Membros da Comissão de Programa:** TBA
+**Membros da Comissão de Programa:**
+
+- Nuno Macedo (Universidade do Minho / INESC TEC) — **Chair**
 
 </div>
 </div>
