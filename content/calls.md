@@ -375,7 +375,7 @@ futuro dos sistemas conectados e inteligentes.
    - Aplicações em saúde, mobilidade, energia, agricultura e aeroespacial
    - Cibersegurança
 
-**Membros da Comissão de Programa:
+**Membros da Comissão de Programa**:
 
 - Vítor Cunha (UA) -- **Chair**
 - José Cecílio (LASIGE/FCUL) -- **Chair**
