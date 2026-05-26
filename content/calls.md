@@ -110,6 +110,26 @@ trabalhos que se enquadrem nas seguintes áreas:
 **Membros da Comissão de Programa:**
 
 - Nuno Macedo (Universidade do Minho / INESC TEC) — **Chair**
+- Alexandre Madeira (Departamento de Matemática da Universidade de Aveiro / CIDMA)
+- Ana Matos (Instituto Superior Técnico, Universidade de Lisboa)
+- André Santos (VORTEX CoLab)
+- Bernardo Toninho (Instituto Superior Técnico, Universidade de Lisboa)
+- Bruno Lima (FEUP / LIACC)
+- Daniela da Cruz (Datadog)
+- Jácome Cunha (Faculdade de Engenharia, Universidade do Porto / HASLab--INESC TEC)
+- João Costa Seco (NOVA FCT / NOVA LINCS)
+- João Pascoal Faria (FEUP / INESC TEC)
+- João Saraiva (Universidade do Minho)
+- Jorge Sousa Pinto (Universidade do Minho)
+- José Pereira dos Reis (ISCTE)
+- José Proença (Universidade do Porto / CISTER)
+- Maria João Frade (Universidade do Minho / HASLab/INESC TEC)
+- Mário Florido (Faculdade de Ciências, Universidade do Porto)
+- Mário Pereira (NOVA FCT / NOVA LINCS)
+- Pedro Vasconcelos (FCUP / LIACC)
+- Salvador Abreu (Universidade de Évora / NOVA LINCS)
+- Simão Melo de Sousa (Universidade do Algarve / NOVA LINCS)
+- Tiago Oliveira (Universidade do Minho / INESC TEC)
 
 </div>
 </div>
