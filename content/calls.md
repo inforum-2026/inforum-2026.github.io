@@ -277,11 +277,38 @@ estudantes que desenvolvem trabalho na área.
 
 **Tópicos de Interesse:**
 
+São encorajadas submissões de trabalhos originais relacionados com, entre outros, os seguintes tópicos:
+
+- Anonimato e Privacidade
+- Autenticação e Biometria
+- Cibersegurança Forense
+- Criptografia e Criptoanálise
+- Cripto-moedas e Blockchain
+- Deteção e Resposta a Incidentes
+- Gestão de Segurança da Informação
+- Métodos Formais em Segurança
+- Segurança Baseada em Hardware
+- Segurança em Aplicações e Serviços Web
+- Segurança em Bases de Dados
+- Segurança em Computação Móvel e Ubíqua
+- Segurança em Internet das Coisas
+- Segurança em Redes
+- Segurança em Sistemas Distribuídos
+- Segurança em Sistemas de Inteligência Artificial e Aprendizagem Máquina
+- Segurança em Software
+- Segurança Ofensiva e Ciber-defesa
+- Sistemas de Deteção e Tolerância a Intrusões
+- Segurança, Privacidade e Confiabilidade na Cloud
+- Votação Eletrónica
+
+A sessão dá especial ênfase a trabalhos com relevância científica e aplicacional nos domínios industrial, judiciário e militar.
+
 **Membros da Comissão de Programa:**
 
-- Alex Davidson (LASIGE/FCUL) -- **Chair**
+- Alex Davidson (LASIGE / FCUL) -- **Chair**
 - João Resende (CRACS - INESCTEC / DCC-FCUP) -- **Chair**
 - David Matos (INESC-ID / Instituto Superior Tecnico)
+- André Zúquete (Universidade de Aveiro)
 - Alan Sá (LASIGE / FCUL)
 - Bernardo Portela (HASLab / FCUP)
 - Chrysoula Vlachou (NOVA LINCS / NOVA University Lisbon)
