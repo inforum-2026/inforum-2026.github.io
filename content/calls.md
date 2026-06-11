@@ -110,6 +110,7 @@ trabalhos que se enquadrem nas seguintes áreas:
 **Membros da Comissão de Programa:**
 
 - Nuno Macedo (Universidade do Minho / INESC TEC) — **Chair**
+- Alcides Fonseca (Universidade de Lisboa)
 - Alexandre Madeira (Departamento de Matemática da Universidade de Aveiro / CIDMA)
 - Ana Matos (Instituto Superior Técnico, Universidade de Lisboa)
 - André Santos (VORTEX CoLab)
@@ -123,6 +124,7 @@ trabalhos que se enquadrem nas seguintes áreas:
 - Jorge Sousa Pinto (Universidade do Minho)
 - José Pereira dos Reis (ISCTE)
 - José Proença (Universidade do Porto / CISTER)
+- Lázaro Costa (Faculdade de Engenharia, Universidade do Porto / HASLab--INESC TEC)
 - Maria João Frade (Universidade do Minho / HASLab/INESC TEC)
 - Mário Florido (Faculdade de Ciências, Universidade do Porto)
 - Mário Pereira (NOVA FCT / NOVA LINCS)
