@@ -4,7 +4,7 @@
     {{ range .dates }}
     <tr>
       <td class="dates-event">{{ .event }}</td>
-      <td class="dates-date">{{ .date }}</td>
+      <td class="dates-date"><s>{{ .date_old }}</s>{{ .date }}</td>
     </tr>
     {{ end }}
   </tbody>
