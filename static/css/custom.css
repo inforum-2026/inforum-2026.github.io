@@ -346,7 +346,7 @@ html body .content ul li {
   text-align: right;
 }
 
-.dates-date_old s {
+.dates-date s {
   text-decoration: line-through !important;
   color: #999;
 }
