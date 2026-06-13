@@ -32,6 +32,7 @@ params:
     about: "INForum 2026"
     # speakers: "Oradores"
     # schedule: "Programa"
+    news: "Notícias"
     dates: "Datas Importantes"
     partners: "Apoios"
     sponsors: "Patrocinadores"
@@ -42,6 +43,7 @@ params:
     - about
     # - speakers
     # - schedule
+    - news
     - dates
     - sponsors
     - partners
@@ -112,6 +114,10 @@ params:
   #     name: "Panel Discussion"
   #   - time: "18:00"
   #     name: "Reception"
+
+  news:
+    - date: "12 de Junho"
+    - update: "As datas importantes da Chamada a Submissões foram alteradas"
 
   dates:
     - event: "Submissão de resumos artigos"
