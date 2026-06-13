@@ -346,6 +346,11 @@ html body .content ul li {
   text-align: right;
 }
 
+.dates-date_old s {
+  text-decoration: line-through !important;
+  color: #999;
+}
+
 .tracks {
   margin-top: 20px;
   width: 100%;
