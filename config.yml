@@ -117,7 +117,7 @@ params:
 
   news:
     - date: "12 de Junho"
-    - update: "As datas importantes da Chamada a Submissões foram alteradas"
+      update: "As datas importantes da Chamada a Submissões foram alteradas"
 
   dates:
     - event: "Submissão de resumos artigos"
