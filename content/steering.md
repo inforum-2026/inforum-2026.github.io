@@ -2,9 +2,9 @@
 title: "Organização"
 ---
 
-# Organização
+## Organização
 
-## Presidência da Comissão de Programa
+### Presidência da Comissão de Programa
 
 <div class="committee-table">
 
@@ -15,7 +15,7 @@ title: "Organização"
 
 </div>
 
-## Comissão Organizadora
+### Comissão Organizadora
 
 <div class="committee-table">
 
@@ -29,7 +29,7 @@ title: "Organização"
 | Ion Chirica **(Representante de Alunos)** | Universidade NOVA de Lisboa |
 </div>
 
-## Comissão Coordenadora
+### Comissão Coordenadora
 
 <div class="committee-table">
 
