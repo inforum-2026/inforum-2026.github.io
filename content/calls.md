@@ -189,6 +189,8 @@ interesse desta sessão.
 - Hervé Paulino (FCT.UNL / NOVA-LINCS)
 - Hugo Miranda (FC.UL / LASIGE)
 - João Paulo Barraca (U.Aveiro / Instituto de Telecomunicações)
+- João Campos (U.Coimbra / CISUC)
+- João T. Paulo (U.Minho / INESC TEC)
 - José Simão (ISEL.IPL / INESC-ID Lisboa)
 - Luis Rodrigues (IST.UL / INESC-ID Lisboa)
 - Luís Veiga (IST.UL / INESC-ID Lisboa)
@@ -196,6 +198,7 @@ interesse desta sessão.
 - Nuno Neves (FC.UL / LASIGE)
 - Paula Prata (UBI / Instituto de Telecomunicações)
 - Rolando Martins (FC.UP)
+- Rui Claro (Layer8)
 - Salvador Abreu (U.Évora / LISP, CRI)
 
 </div>
