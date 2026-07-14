@@ -421,4 +421,5 @@ html body .dates-date s {
 .news-table td {
   line-height: 1.8;
   padding: 12px 16px;
+  text-align: justify;
 }
