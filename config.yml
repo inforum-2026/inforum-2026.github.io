@@ -118,6 +118,8 @@ params:
   news:
     - date: "12 de Junho"
       update: "As datas importantes da Chamada a Submissões foram alteradas"
+    - date: "14 de Julho"
+      update: "As datas referentes às submissões de Comunicações, Pósteres e Demonstrações foram actualizadas. Já é possível, através do link EasyChair, submeter trabalhos numa destas três categorias. Pedimos aos autores o favor de terem em atenção, no momento da submissão, de indicarem em qual das categorias estão a submeter."
 
   dates:
     - event: "Submissão de resumos artigos"
