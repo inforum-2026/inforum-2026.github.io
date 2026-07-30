@@ -141,7 +141,8 @@ params:
       dateold: "17 de Julho de 2026"
       date: "24 de Julho de 2026"
     - event: "Submissão de versões finais de comunicações, pósteres e demonstrações"
-      date: "29 de Julho de 2026"
+      dateold: "29 de Julho de 2026"
+      date: "31 de Julho de 2026"
     - event: "Evento no Monte da Caparica"
       date: "3 e 4 de Setembro de 2026"
 
