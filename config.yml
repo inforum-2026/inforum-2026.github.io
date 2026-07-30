@@ -116,6 +116,8 @@ params:
   #     name: "Reception"
 
   news:
+    - date: "30 de Julho"
+      update: "As datas referentes à submissão das versões finais de todos os tipos de submissão foram alteradas."
     - date: "14 de Julho"
       update: "As datas referentes às submissões de Comunicações, Pósteres e Demonstrações foram actualizadas. Já é possível, através do link EasyChair, submeter trabalhos numa destas três categorias. Pedimos aos autores o favor de terem em atenção, no momento da submissão, de indicarem em qual das categorias estão a submeter."
     - date: "12 de Junho"
