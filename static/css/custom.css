@@ -489,3 +489,16 @@ html body .dates-date s {
 .schedule-table th:last-child {
   width: auto !important;
 }
+
+.schedule-table td,
+.schedule-table th {
+  text-align: center !important;
+  vertical-align: middle;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
+
+.schedule-table td:first-child,
+.schedule-table th:first-child {
+  text-align: left !important;
+}
