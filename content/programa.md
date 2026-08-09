@@ -22,6 +22,10 @@ title: "Programa"
       <td>11:00</td>
       <td colspan="3">Registo</td>
     </tr>
+    <tr class="schedule-social">
+      <td>12:00</td>
+      <td colspan="3">Almoço</td>
+    </tr>
     <tr class="schedule-plenary">
       <td>13:20</td>
       <td colspan="3">Abertura</td>
@@ -83,7 +87,7 @@ title: "Programa"
       <td>IACD (3)</td>
       <td>SOFT-PT (2)</td>
     </tr>
-    <tr class="schedule-plenary">
+    <tr class="schedule-social">
       <td>12:15</td>
       <td colspan="3">Almoço</td>
     </tr>
