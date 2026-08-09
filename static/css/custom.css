@@ -475,3 +475,17 @@ html body .dates-date s {
   background-color: #fef9e7;
   font-weight: bold;
 }
+
+.schedule-table {
+  table-layout: auto !important;
+}
+
+.schedule-table td:first-child,
+.schedule-table th:first-child {
+  width: 80px !important;
+}
+
+.schedule-table td:last-child,
+.schedule-table th:last-child {
+  width: auto !important;
+}
