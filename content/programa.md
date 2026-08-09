@@ -99,9 +99,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-break">
       <td>15:30</td>
-      <td>Coffee Break + Pósters + Demos</td>
-      <td>IACD (2)</td>
-      <td>—</td>
+      <td colspan="3">Coffee Break + Pósters + Demos</td>
     </tr>
     <tr class="schedule-plenary">
       <td>16:30</td>
