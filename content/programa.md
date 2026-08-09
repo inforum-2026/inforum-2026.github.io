@@ -32,7 +32,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-session">
       <td>13:30</td>
-      <td>CPLA (1)</td>
+      <td>CPDLA (1)</td>
       <td>IACD (1)</td>
       <td>SOFT-PT (1)</td>
     </tr>
@@ -83,7 +83,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-session">
       <td>10:30</td>
-      <td>CPLA (2)</td>
+      <td>CPDLA (2)</td>
       <td>IACD (3)</td>
       <td>SOFT-PT (2)</td>
     </tr>
