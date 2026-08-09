@@ -423,3 +423,55 @@ html body .dates-date s {
   padding: 12px 16px;
   text-align: justify;
 }
+
+.schedule-day {
+  margin-bottom: 40px;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  margin-top: 10px;
+}
+
+.schedule-table th {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.schedule-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #ddd;
+}
+
+.col-time {
+  width: 80px;
+}
+
+.col-room {
+  width: calc((100% - 80px) / 3);
+}
+
+/* Row colour coding */
+.schedule-plenary td {
+  background-color: #e8f0fe;
+  font-weight: bold;
+}
+
+.schedule-session td {
+  background-color: #fff;
+}
+
+.schedule-break td {
+  background-color: #f5f5f5;
+  color: #777;
+  font-style: italic;
+}
+
+.schedule-social td {
+  background-color: #fef9e7;
+  font-weight: bold;
+}
