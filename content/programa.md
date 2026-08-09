@@ -99,7 +99,7 @@ title: "Programa"
       <td>14:00</td>
       <td>SSCC (2)</td>
       <td>IACD (4)</td>
-      <td>SCI</td>
+      <td>SCI-RISC</td>
     </tr>
     <tr class="schedule-break">
       <td>15:30</td>
