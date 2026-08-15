@@ -4,7 +4,7 @@
     {{ range .news }}
     <tr>
       <td><b>[{{ .date }}]</b></td>
-      <td>{{ .update }}</td>
+      <td>{{ .update | safeHTML }}</td>
     </tr>
     {{ end }}
   </tbody>
