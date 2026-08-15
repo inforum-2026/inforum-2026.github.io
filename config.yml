@@ -117,7 +117,7 @@ params:
 
   news:
     - date: "09 de Agosto"
-      update: "Foi publicado o programa provisório do INForum 2026. Em breve será apresentada a alocação de artigos e comunicações para cada sessão."
+      update: "Foi publicado o <a href='/programa'>programa</a> provisório do INForum 2026. Em breve será apresentada a alocação de artigos e comunicações para cada sessão."
     - date: "30 de Julho"
       update: "As datas referentes à submissão das versões finais de todos os tipos de submissão foram alteradas."
     - date: "14 de Julho"
