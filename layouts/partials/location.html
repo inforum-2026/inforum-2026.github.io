@@ -1,7 +1,28 @@
-<h2 class="section-title">{{ .titles.location }}</h2>
+<!-- <h2 class="section-title">{{ .titles.location }}</h2> -->
 
-<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">{{ .address }}. </span>
+<!-- <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"> -->
+<!--   <span itemprop="streetAddress">{{ .address }}. </span> -->
+<!-- </p> -->
+
+<!-- <div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}"></div> -->
+
+
+<h2 class="section-title">{{ .titles.location }}</h2>
+<div id="map" style="height: 400px; width: 100%; border-radius: 8px;"></div>
+<p style="margin-top: 12px; text-align: center;">
+  <strong>{{ .location.name }}</strong><br>
+  {{ .location.address }}
 </p>
 
-<div id="map-canvas" class="location-area" data-address="{{ .address }}, {{ .city }} - {{ .state }}"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  var map = L.map('map').setView([{{ .location.lat }}, {{ .location.lng }}], 15);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  L.marker([{{ .location.lat }}, {{ .location.lng }}])
+    .addTo(map)
+    .bindPopup('<strong>{{ .location.name }}</strong><br>{{ .location.address }}')
+    .openPopup();
+</script>

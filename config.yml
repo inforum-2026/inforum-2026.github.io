@@ -59,7 +59,7 @@ params:
     website: "https://yourconference.org"
 
   # --- Location ---
-  googleMapsKey: "AIzaSyAfd639IdTdczumfJw6Nmdvz769rK18Z6s"
+  # googleMapsKey: "AIzaSyAfd639IdTdczumfJw6Nmdvz769rK18Z6s"
 
   location:
     name: "Nova SST"
