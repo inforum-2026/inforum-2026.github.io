@@ -6,7 +6,7 @@ title: "Programa"
 
 <div class="schedule-day">
 
-### 3 de Setembro (Quinta-feira)
+### 3 de setembro (quinta-feira)
 
 <table class="schedule-table">
   <thead>
@@ -61,7 +61,7 @@ title: "Programa"
 
 <div class="schedule-day">
 
-### 4 de Setembro (Sexta-feira)
+### 4 de setembro (sexta-feira)
 
 <table class="schedule-table">
   <thead>
