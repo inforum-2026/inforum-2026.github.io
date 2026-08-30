@@ -16,11 +16,11 @@
     {{ with .company }}
     <h4 class="speakers-company">{{ . }}</h4>
     {{ end }}
-    <p class="speakers-bio" itemprop="description">{{ .bio }}</p>
     {{ with .abstract }}
     <h4 class="speakers-abstract-title">Resumo</h4>
     <p class="speakers-abstract">{{ . }}</p>
     {{ end }}
+    <p class="speakers-bio" itemprop="description">{{ .bio }}</p>
   </li>
 {{ end }}
 </ul>
