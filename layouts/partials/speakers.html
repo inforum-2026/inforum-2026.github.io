@@ -7,7 +7,12 @@
         <img class="photo" src="/img/{{ . }}" alt="{{ $speaker.name }}" itemprop="image">
       </span>
     {{ end }}
-    <h3 class="speakers-name" itemprop="name">{{ .name }}</h3>
+    <h3 class="speakers-name" itemprop="name">
+      {{ .name }}
+      {{ with .link }}
+      <a href="{{ . }}" target="_blank" class="speakers-link">🔗</a>
+      {{ end }}
+    </h3>
     {{ with .company }}
     <h4 class="speakers-company">{{ . }}</h4>
     {{ end }}
@@ -15,9 +20,6 @@
     {{ with .abstract }}
     <h4 class="speakers-abstract-title">Resumo</h4>
     <p class="speakers-abstract">{{ . }}</p>
-    {{ end }}
-    {{ with .link }}
-    <a href="{{ . }}" target="_blank" class="speakers-link">Website</a>
     {{ end }}
   </li>
 {{ end }}
