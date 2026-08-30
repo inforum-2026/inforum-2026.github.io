@@ -502,3 +502,8 @@ html body .dates-date s {
 .schedule-table th:first-child {
   text-align: left !important;
 }
+
+.speakers-link {
+  font-size: 0.7rem;
+  vertical-align: middle;
+}
