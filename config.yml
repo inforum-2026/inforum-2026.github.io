@@ -30,7 +30,7 @@ params:
 
   titles:
     about: "INForum 2026"
-    # speakers: "Oradores"
+    speakers: "Oradores Convidados"
     # schedule: "Programa"
     news: "Notícias"
     dates: "Datas Importantes"
@@ -69,14 +69,16 @@ params:
 
   # --- Speakers ---
   speakers:
-    - name: "Jane Doe"
-      company: "Inria"
-      link: "https://janedoe.example.com"
-      twitter: "janedoe"
+    - name: "Fred Oliveira"
+      company: "Snyk"
+      link: "https://helloform.com"
       bio: >
-        Jane works on verified compilation and the design of intermediate
-        representations for certified compilers.
-      image: "jane-doe.jpg"   # put in static/img/
+        Fred Oliveira works on AI risk and agentic security at Snyk, where he
+        builds evaluation methodology and observability tooling for autonomous
+        agent behavior. He previously built data systems for venture capital
+        funds. He co-authored O'Reilly's Redis Cookbook and co-organizes
+        LisbonAI. He is based in Coimbra.
+      image: "foto-fredoliveira.jpg"   # put in static/img/
 
     - name: "John Smith"
       company: "University of Edinburgh"
