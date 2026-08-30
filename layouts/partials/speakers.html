@@ -1,0 +1,20 @@
+<h2 class="section-title">{{ .titles.speakers }}</h2>
+<ul class="speakers-list">
+{{ range $speaker := .speakers }}
+  <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+    {{ with .image }}
+      <span class="speaker-photo">
+        <img class="photo" src="/img/{{ . }}" alt="{{ $speaker.name }}" itemprop="image">
+      </span>
+    {{ end }}
+    <h3 class="speakers-name" itemprop="name">{{ .name }}</h3>
+    {{ with .company }}
+    <h4 class="speakers-company">{{ . }}</h4>
+    {{ end }}
+    <p class="speakers-bio" itemprop="description">{{ .bio }}</p>
+    {{ with .link }}
+    <a href="{{ . }}" target="_blank" class="speakers-link">Website</a>
+    {{ end }}
+  </li>
+{{ end }}
+</ul>

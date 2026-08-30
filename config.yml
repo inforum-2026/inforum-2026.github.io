@@ -80,14 +80,6 @@ params:
         LisbonAI. He is based in Coimbra.
       image: "foto-fredoliveira.jpg"   # put in static/img/
 
-    - name: "John Smith"
-      company: "University of Edinburgh"
-      link: "https://johnsmith.example.com"
-      bio: >
-        John research focuses on dependent type theory and proof assistants,
-        with a particular interest in Rocq and Lean.
-      image: "john-smith.jpg"
-
   # --- Schedule ---
   # schedule:
   #   - time: "8:30"
