@@ -16,6 +16,10 @@
     {{ with .company }}
     <h4 class="speakers-company">{{ . }}</h4>
     {{ end }}
+    {{ with .title }}
+    <h4 class="speakers-talk-title">Título</h4>
+    <p class="speakers-title">{{ . }}</h4>
+    {{ end }}
     {{ with .abstract }}
     <h4 class="speakers-abstract-title">Resumo</h4>
     <p class="speakers-abstract">{{ . }}</p>
