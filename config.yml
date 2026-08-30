@@ -152,6 +152,8 @@ params:
   #     name: "Reception"
 
   news:
+    - date: "30 de Agosto"
+      update: "Apresentação dos oradores convidados do INForum 2026."
     - date: "09 de Agosto"
       update: "Foi publicado o <a href='/programa'>programa</a> provisório do INForum 2026. Em breve será apresentada a alocação de artigos e comunicações para cada sessão."
     - date: "30 de Julho"
