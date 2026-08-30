@@ -78,6 +78,36 @@ params:
         agent behavior. He previously built data systems for venture capital
         funds. He co-authored O'Reilly's Redis Cookbook and co-organizes
         LisbonAI. He is based in Coimbra.
+      abstract: >
+        Over the last few years, we have seen large language models break many
+        of the assumptions behind the trust mechanisms that make up the
+        cybersecurity landscape: that humans would read code; that attacks
+        wouldn't be intelligent; that the parts of a system could be named,
+        versioned, and looked up in a database; that anything able to act on a
+        machine would be a program you could scan; and that a human would be on
+        the other end of every alarm.
+
+        As a field and as an industry, it is on us to tackle these issues. This
+        talk will be a tour of the open problems in AI Safety and AI
+        Security. Some of these, I have field notes on. These are the problems
+        my team and I are trying to solve at Snyk: from risk evaluations, to
+        red-teaming applications, to securing the new agentic development
+        lifecycle. Some of these problems, however, are open-ended, and require
+        fresh perspectives. Maybe the perspectives of the people in the room.
+
+        Expect to leave with perhaps more questions than answers. But right now,
+        I believe that's the most useful thing I can offer.
+      image: "foto-fredoliveira.jpg" # put in static/img/
+
+    - name: "Nuno Preguiça"
+      company: "Faculdade de Ciências e Tecnologia -- Universidade NOVA Lisboa"
+      link: "https://helloform.com"
+      bio: >
+        Fred Oliveira works on AI risk and agentic security at Snyk, where he
+        builds evaluation methodology and observability tooling for autonomous
+        agent behavior. He previously built data systems for venture capital
+        funds. He co-authored O'Reilly's Redis Cookbook and co-organizes
+        LisbonAI. He is based in Coimbra.
       image: "foto-fredoliveira.jpg"   # put in static/img/
 
   # --- Schedule ---
