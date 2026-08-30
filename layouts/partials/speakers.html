@@ -12,6 +12,10 @@
     <h4 class="speakers-company">{{ . }}</h4>
     {{ end }}
     <p class="speakers-bio" itemprop="description">{{ .bio }}</p>
+    {{ with .abstract }}
+    <h4 class="speakers-abstract-title">Resumo</h4>
+    <p class="speakers-abstract">{{ . }}</p>
+    {{ end }}
     {{ with .link }}
     <a href="{{ . }}" target="_blank" class="speakers-link">Website</a>
     {{ end }}
