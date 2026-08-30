@@ -41,9 +41,9 @@ params:
   # --- Navigation ---
   sections:
     - about
-    - speakers
     # - schedule
     - news
+    - speakers
     - dates
     - sponsors
     - partners
