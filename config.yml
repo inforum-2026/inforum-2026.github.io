@@ -106,7 +106,6 @@ params:
       title: >
         From Conflict Resolution to Application Correctness in Distributed Systems
       abstract: >
-
         Distributed applications, running on multiple nodes, need to share
         data. When coordination is too costly or simply unavailable - from
         mobile computing to geo-replication setting and autonomous operation -
