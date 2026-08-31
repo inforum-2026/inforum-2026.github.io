@@ -527,8 +527,8 @@ html body .dates-date s {
 
 .faq-question {
   width: 100%;
-  background-color: #333;
-  color: #fff;
+  background-color: #e8f0fe;
+  color: #333;
   padding: 14px 16px;
   text-align: left;
   font-size: 1rem;
@@ -540,18 +540,16 @@ html body .dates-date s {
   transition: background-color 0.2s ease;
 }
 
+.faq-question:hover {
+  background-color: #d0e2ff;
+}
+
 .faq-question::after {
-  content: '▸';
-  font-size: 1rem;
-  transition: transform 0.2s ease;
+  color: #333;
 }
 
 .faq-question.is-open::after {
   transform: rotate(90deg);
-}
-
-.faq-question:hover {
-  background-color: #555;
 }
 
 .faq-answer {
