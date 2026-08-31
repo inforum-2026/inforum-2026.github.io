@@ -32,6 +32,7 @@ params:
     about: "INForum 2026"
     speakers: "Oradores Convidados"
     # schedule: "Programa"
+    faq: "Perguntas Frequentes"
     news: "Notícias"
     dates: "Datas Importantes"
     partners: "Apoios"
@@ -42,6 +43,7 @@ params:
   sections:
     - about
     # - schedule
+    - faq
     - news
     - speakers
     - dates
@@ -150,6 +152,14 @@ params:
   #     name: "Panel Discussion"
   #   - time: "18:00"
   #     name: "Reception"
+
+  faq:
+    - question: "Poderei levar o meu carro e estacionar no Campus da Caparica?"
+      answer: "Sim. Todos os participantes poderão trazer a sua viatura própria para o Campus e terão acesso a estacionamento durante os dois dias do evento."
+    - question: "Quando e onde se irá realizar o jantar da conferência?"
+      answer: "O jantar da conferência realiza-se na noite de 3 de setembro, no restaurante Lisboa à Vista situado na baía do Seixal."
+    - question: "Haverá transporte para o restaurante?"
+      answer: "Sim. A organização do INForum 2026 assegurou dois autocarros que levarão os participantes do Campus da Caparica directamente para o local do restaurante. O horário de saída será pelas 19 horas. Está também assegurado o regresso ao Campus, pelas 23 horas."
 
   news:
     - date: "30 de Agosto"

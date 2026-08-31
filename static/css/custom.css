@@ -512,3 +512,55 @@ html body .dates-date s {
   list-style: none !important;
   padding-left: 0 !important;
 }
+
+.faq-list {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.faq-item {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+
+.faq-question {
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  padding: 14px 16px;
+  text-align: left;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.2s ease;
+}
+
+.faq-question::after {
+  content: '▸';
+  font-size: 1rem;
+  transition: transform 0.2s ease;
+}
+
+.faq-question.is-open::after {
+  transform: rotate(90deg);
+}
+
+.faq-question:hover {
+  background-color: #555;
+}
+
+.faq-answer {
+  display: none;
+  padding: 16px 20px;
+  background-color: #fafafa;
+  border-top: 1px solid #ddd;
+}
+
+.faq-answer.is-open {
+  display: block;
+}

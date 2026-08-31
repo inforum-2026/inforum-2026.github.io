@@ -42,7 +42,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-plenary">
       <td>15:30</td>
-      <td colspan="3">Keynote -- A Whirlwind Tour of Open Problems in AI
+      <td colspan="3">Keynote - A Whirlwind Tour of Open Problems in AI
   Security, Fred Oliveira</td>
     </tr>
     <tr class="schedule-session">
@@ -76,7 +76,7 @@ title: "Programa"
   <tbody>
     <tr class="schedule-plenary">
       <td>09:00</td>
-      <td colspan="3">Keynote -- From Conflict Resolution to Application
+      <td colspan="3">Keynote - From Conflict Resolution to Application
   Correctness in Distributed Systems, Nuno Preguiça</td>
     </tr>
     <tr class="schedule-break">

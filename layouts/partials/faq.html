@@ -1,0 +1,11 @@
+<h2 class="section-title">{{ .titles.faq }}</h2>
+<div class="faq-list">
+  {{ range .faq }}
+  <div class="faq-item">
+    <button class="faq-question">{{ .question }}</button>
+    <div class="faq-answer">
+      <p>{{ .answer }}</p>
+    </div>
+  </div>
+  {{ end }}
+</div>
