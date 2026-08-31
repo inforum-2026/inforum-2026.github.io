@@ -39,3 +39,25 @@ document.querySelectorAll('.track-header').forEach(function(header) {
     }
   });
 });
+
+// FAQ accordion
+document.querySelectorAll('.faq-question').forEach(function(question) {
+  question.addEventListener('click', function() {
+    var answer = this.nextElementSibling;
+    var isOpen = answer.classList.contains('is-open');
+
+    // Close all
+    document.querySelectorAll('.faq-answer').forEach(function(a) {
+      a.classList.remove('is-open');
+    });
+    document.querySelectorAll('.faq-question').forEach(function(q) {
+      q.classList.remove('is-open');
+    });
+
+    // Open clicked one if it was closed
+    if (!isOpen) {
+      answer.classList.add('is-open');
+      question.classList.add('is-open');
+    }
+  });
+});
