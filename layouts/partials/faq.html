@@ -4,7 +4,7 @@
   <div class="faq-item">
     <button class="faq-question">{{ .question }}</button>
     <div class="faq-answer">
-      <p>{{ .answer }}</p>
+      <p>{{ .answer | safeHTML }}</p>
     </div>
   </div>
   {{ end }}
