@@ -154,6 +154,8 @@ params:
   #     name: "Reception"
 
   faq:
+    - question: "Qual a duração das apresentações?"
+      answer: "Cada artigo terá um tempo de apresentação de 15 minutos, seguido de 5 minutos de discussão. Cada comunicação terá um tempo de apresentação de 10 minutos, seguido de 2 minutos de discussão."
     - question: "Poderei levar o meu carro e estacionar no Campus da Caparica?"
       answer: "Sim. Todos os participantes poderão trazer a sua viatura própria para o Campus e terão acesso a estacionamento durante os dois dias do evento."
     - question: "Quando e onde se irá realizar o jantar da conferência?"
