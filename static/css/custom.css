@@ -603,3 +603,14 @@ html body .dates-date s {
 .session-comm {
   color: #b45309;
 }
+
+.paper-title {
+  font-weight: bold;
+}
+
+.paper-authors {
+  font-weight: normal;
+  font-size: 0.9rem;
+  color: #555;
+  font-style: italic;
+}
