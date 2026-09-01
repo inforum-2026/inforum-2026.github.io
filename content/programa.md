@@ -25,7 +25,7 @@ title: "Programa"
       <td>11:00</td>
       <td colspan="3">Registo</td>
     </tr>
-    <tr class="schedule-plenary">
+    <tr class="schedule-social">
       <td>12:00</td>
       <td colspan="3">Almoço</td>
     </tr>
@@ -45,7 +45,8 @@ title: "Programa"
     </tr>
     <tr class="schedule-plenary">
       <td>15:30</td>
-      <td colspan="3">Keynote</td>
+      <td colspan="3">Keynote - A Whirlwind Tour of Open Problems in AI
+  Security, Fred Oliveira</td>
     </tr>
     <tr class="schedule-session">
       <td>16:45</td>
@@ -78,7 +79,8 @@ title: "Programa"
   <tbody>
     <tr class="schedule-plenary">
       <td>09:00</td>
-      <td colspan="3">Keynote</td>
+      <td colspan="3">Keynote - From Conflict Resolution To Application
+  Correctness in Distributed Systems, Nuno Preguiça</td>
     </tr>
     <tr class="schedule-break">
       <td>10:15</td>
@@ -90,7 +92,7 @@ title: "Programa"
       <td><a href="#iacd3">IACD (3)</a></td>
       <td><a href="#softpt2">SOFT-PT (2)</a></td>
     </tr>
-    <tr class="schedule-plenary">
+    <tr class="schedule-social">
       <td>12:15</td>
       <td colspan="3">Almoço</td>
     </tr>
