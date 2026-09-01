@@ -2,10 +2,17 @@
 title: "Programa"
 ---
 
-## Programa Provisório
+## Programa
 
 **Artigos:** 20 minutos (15 min apresentação + 5 min discussão)
+
 **Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
+
+**Sala 1:** Sala 1 do Edíficio da Cantina, FCT NOVA
+
+**Sala 2:** Sala 2 do Edíficio da Cantina, FCT NOVA
+
+**Sala 3:** Sala 3 do Edíficio da Cantina, FCT NOVA
 
 <div class="schedule-day">
 
