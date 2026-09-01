@@ -14,9 +14,12 @@ title: "Programa"
 
 **Sala 3:** Sala 3 do Edíficio da Cantina, FCT NOVA
 
+**Nota:** o registo e os almoços terão lugar na *Sala Ágora*. A sessão de
+abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
+
 <div class="schedule-day">
 
-### 3 de Setembro (Quinta-feira)
+### 3 de setembro (quinta-feira)
 
 <table class="schedule-table">
   <thead>
@@ -72,7 +75,7 @@ title: "Programa"
 
 <div class="schedule-day">
 
-### 4 de Setembro (Sexta-feira)
+### 4 de setembro (sexta-feira)
 
 <table class="schedule-table">
   <thead>
@@ -134,7 +137,7 @@ title: "Programa"
 
 ## Sessões
 
-### <span id="cpdla1">CPDLA (1) — Quinta-feira, 13:30</span>
+### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
   <tbody>
@@ -147,7 +150,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="iacd1">IACD (1) — Quinta-feira, 13:30</span>
+### <span id="iacd1">IACD (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
   <tbody>
@@ -160,7 +163,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="softpt1">SOFT-PT (1) — Quinta-feira, 13:30</span>
+### <span id="softpt1">SOFT-PT (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
   <tbody>
@@ -172,7 +175,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="iacd2">IACD (2) — Quinta-feira, 16:45</span>
+### <span id="iacd2">IACD (2) — quinta-feira, 16:45</span>
 
 <table class="session-table">
   <tbody>
@@ -183,7 +186,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="sscc1">SSCC (1) — Quinta-feira, 16:45</span>
+### <span id="sscc1">SSCC (1) — quinta-feira, 16:45</span>
 
 <table class="session-table">
   <tbody>
@@ -194,7 +197,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="cpdla2">CPDLA (2) — Sexta-feira, 10:30</span>
+### <span id="cpdla2">CPDLA (2) — sexta-feira, 10:30</span>
 
 <table class="session-table">
   <tbody>
@@ -207,7 +210,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="iacd3">IACD (3) — Sexta-feira, 10:30</span>
+### <span id="iacd3">IACD (3) — sexta-feira, 10:30</span>
 
 <table class="session-table">
   <tbody>
@@ -219,7 +222,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="softpt2">SOFT-PT (2) — Sexta-feira, 10:30</span>
+### <span id="softpt2">SOFT-PT (2) — sexta-feira, 10:30</span>
 
 <table class="session-table">
   <tbody>
@@ -232,7 +235,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="sscc2">SSCC (2) — Sexta-feira, 14:00</span>
+### <span id="sscc2">SSCC (2) — sexta-feira, 14:00</span>
 
 <table class="session-table">
   <tbody>
@@ -242,7 +245,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="iacd4">IACD (4) — Sexta-feira, 14:00</span>
+### <span id="iacd4">IACD (4) — sexta-feira, 14:00</span>
 
 <table class="session-table">
   <tbody>
@@ -253,7 +256,7 @@ title: "Programa"
   </tbody>
 </table>
 
-### <span id="sci">SCI — Sexta-feira, 14:00</span>
+### <span id="sci">SCI — sexta-feira, 14:00</span>
 
 <table class="session-table">
   <tbody>
