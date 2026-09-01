@@ -577,6 +577,7 @@ html body .dates-date s {
   padding: 8px 12px;
   border-bottom: 1px solid #eee;
   vertical-align: top;
+  line-height: 1.6;
 }
 
 .session-time {
