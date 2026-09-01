@@ -614,3 +614,18 @@ html body .dates-date s {
   color: #555;
   font-style: italic;
 }
+
+.session-table {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+
+.session-table td {
+  border-bottom: 1px solid #eee;
+}
+
+.session-table tr:last-child td {
+  border-bottom: none;
+}
