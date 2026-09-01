@@ -565,3 +565,40 @@ html body .dates-date s {
 .faq-answer.is-open {
   display: block;
 }
+
+.session-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  font-size: 1rem;
+}
+
+.session-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+}
+
+.session-time {
+  white-space: nowrap;
+  color: #555;
+  width: 60px;
+  font-weight: bold;
+}
+
+.session-type {
+  white-space: nowrap;
+  width: 110px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.session-article {
+  color: #1a56a0;
+}
+
+.session-comm {
+  color: #b45309;
+}
