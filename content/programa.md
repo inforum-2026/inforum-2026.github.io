@@ -120,14 +120,6 @@ title: "Programa"
 
 </div>
 
----
-
-## Sessões
-
-**Artigos:** 20 minutos (15 min apresentação + 5 min discussão)
-
-**Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
-
 **Sala 1:** Sala 1 do Edíficio da Cantina, FCT NOVA
 
 **Sala 2:** Sala 2 do Edíficio da Cantina, FCT NOVA
@@ -136,6 +128,14 @@ title: "Programa"
 
 **Nota:** o registo e os almoços terão lugar na *Sala Ágora*. A sessão de
 abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
+
+---
+
+## Sessões
+
+**Artigos:** 20 minutos (15 min apresentação + 5 min discussão)
+
+**Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
 
 ### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
