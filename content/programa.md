@@ -171,6 +171,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 ### <span id="softpt1">SOFT-PT (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Nuno Macedo</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">13:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Typestated Monitors for Distributed Java Applications</span><br><span class="paper-authors">Francisco Parrinha, João Mota e António Ravara</span></td></tr>
     <tr><td class="session-time">13:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Minimization 2: Brzozowski Strikes Back</span><br><span class="paper-authors">Nelma Moreira, Rogério Reis e Gonçalo Teixeira</span></td></tr>
@@ -194,6 +199,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 ### <span id="sscc1">SSCC (1) — quinta-feira, 16:45</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Alex Davidson</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">16:45</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">User Behavior Profiling via Kernel-Level Telemetry and Lightweight Edge-Inference</span><br><span class="paper-authors">João Realinho, Rui Claro, João Trindade e João M. Lourenço</span></td></tr>
     <tr><td class="session-time">17:05</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">An Initial Assessment of Chatbot Reliability in the Generation of Cybersecurity-Related Commands, Instructions, and Code</span><br><span class="paper-authors">Maria Inês Gomes, Pedro Inácio, Bernardo Sequeiros e Tiago Roxo</span></td></tr>
@@ -205,6 +215,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 ### <span id="cpdla2">CPDLA (2) — sexta-feira, 10:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: João Lourenço</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">10:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Reputação Tolerante a Falhas Bizantinas para Sistemas de Disseminação em Árvore</span><br><span class="paper-authors">Fábio Gomes, Luís Rodrigues e Miguel Matos</span></td></tr>
     <tr><td class="session-time">10:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Trade-offs in page promotion for multi-tiered memory systems</span><br><span class="paper-authors">Miguel Carvalho, Rodrigo Santos, Miguel Pereira, Ganliang Zhu, Arun Kp e João Barreto</span></td></tr>
@@ -247,6 +262,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 ### <span id="sscc2">SSCC (2) — sexta-feira, 14:00</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: João Resende</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">14:00</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Salvaguarda e Re-execução para Detecção post-mortem de Ataques em Sistemas de Aprendizagem Automática Federada</span><br><span class="paper-authors">Mafalda Fernandes, Daniel Castro, Luís Rodrigues e Nuno Santos</span></td></tr>
     <tr><td class="session-time">14:20</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">LegionITS: A Federated Intrusion-Tolerant Architecture with Privacy-Preserving Threat Intelligence Sharing</span><br><span class="paper-authors">Tadeu Freitas, Carlos Novo, Manuel Correia e Rolando Martins</span></td></tr>
