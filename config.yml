@@ -170,6 +170,8 @@ params:
       answer: "Sim. A organização do INForum 2026 assegurou dois autocarros que levarão os participantes do Campus da Caparica directamente para o local do restaurante. O horário de saída será pelas 19 horas. Está também assegurado o regresso ao Campus, pelas 23 horas."
 
   news:
+    - date: "2 de Setembro"
+      update: "Foi publicado o <a href='/programa'>programa</a> final do INForum 2026."
     - date: "30 de Agosto"
       update: "Anunciados os oradores convidados do INForum 2026."
     - date: "09 de Agosto"
