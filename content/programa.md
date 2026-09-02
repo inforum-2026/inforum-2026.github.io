@@ -191,6 +191,11 @@ lugar na *Sala 2*.
 ### <span id="iacd1">IACD (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Diogo Soares</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">13:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Hybrid Gaussian-TCN time series forecasting model applied for insulator fault prediction</span><br><span class="paper-authors">António Pires, Stefano Stefenon e Rui Jesus</span></td></tr>
     <tr><td class="session-time">13:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Contrastive Clustering for Multimodal Longitudinal Subtyping of Parkinson's Disease Progression</span><br><span class="paper-authors">Diogo Barreta e Diogo Soares</span></td></tr>
@@ -221,6 +226,11 @@ lugar na *Sala 2*.
 ### <span id="iacd2">IACD (2) — quinta-feira, 16:45</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Diogo Soares</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">16:45</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Efficient Online Clustering of Faces by Identity via Approximate Nearest-Neighbours</span><br><span class="paper-authors">Daniel Neves, Hervé Paulino e Nuno Marques</span></td></tr>
     <tr><td class="session-time">17:05</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Exploring Data Augmentation Strategies for Named Entity Recognition in Biomedical Literature</span><br><span class="paper-authors">Miguel Lourenço e Andre Lamurias</span></td></tr>
@@ -266,6 +276,11 @@ lugar na *Sala 2*.
 ### <span id="iacd3">IACD (3) — sexta-feira, 10:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Diogo Soares</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">10:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Electricity Price Forecasting for Business Energy Contracting in Portugal: A Machine Learning Framework Integrated with Cost Simulation</span><br><span class="paper-authors">Ana Beatriz Pereira, João Pedro Pereira, João Silva, Sara Silva e Ana Maria de Almeida</span></td></tr>
     <tr><td class="session-time">10:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Design and Evaluation of a RAG-Based Chatbot for Project-Based Learning Support</span><br><span class="paper-authors">Maria Joana Pires e Mário Véstias</span></td></tr>
@@ -315,6 +330,11 @@ lugar na *Sala 2*.
 ### <span id="iacd4">IACD (4) — sexta-feira, 14:00</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Diogo Soares</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">14:00</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Improving Deep Learning Models with Evolutionary Algorithms</span><br><span class="paper-authors">Ruben Café, Nuno Leite e Artur Ferreira</span></td></tr>
     <tr><td class="session-time">14:20</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Reproducible Machine Learning Baselines for Pediatric Obstructive Sleep Apnea Risk Stratification: A Leakage-Safe Pipeline with Patient-Grouped Evaluation</span><br><span class="paper-authors">Nuno Rodrigues e Isabel Machado Alexandre</span></td></tr>
@@ -326,6 +346,11 @@ lugar na *Sala 2*.
 ### <span id="sci">SCI — sexta-feira, 14:00</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Vitor Cunha</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">14:00</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Configuration-Aware Runtime Monitoring: Protecting Workflows by Automating the Creation of Monitoring Rules from a Workflow's Configuration File</span><br><span class="paper-authors">Tiago Silva, Sofia Vaz, Vitor Cunha e Daniel Corujo</span></td></tr>
     <tr><td class="session-time">14:20</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">In-network computing anomaly detection for the energy sector</span><br><span class="paper-authors">Martim Carvalho, Tiago Barros, Rui Silva, David Santos, Daniel Corujo, Fatma Marzouk e Rui Aguiar</span></td></tr>
