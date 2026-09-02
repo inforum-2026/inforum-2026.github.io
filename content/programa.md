@@ -126,8 +126,9 @@ title: "Programa"
 
 **Sala 3:** Sala 3 do Edíficio da Cantina, FCT NOVA
 
-**Nota:** o registo e os almoços terão lugar na *Sala Ágora*. A sessão de
-abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
+**Nota:** o registo e os almoços terão lugar na *Sala Ágora* (junto à
+biblioteca). A sessão de abertura, keynotes e business meeting INForum terão
+lugar na *Sala 2*.
 
 ---
 
