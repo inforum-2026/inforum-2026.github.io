@@ -5,7 +5,12 @@ title: "Social"
 ## Almoços
 
 Os almoços do INForum 2026 realizam-se na **Sala Ágora**, junto ao edíficio da
-Biblioteca da Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa.
+Biblioteca da Faculdade de Ciências e Tecnologia da Universidade NOVA Lisboa.
+
+## Coffee Breaks
+
+Os coffee breaks do INForum 2026 serão servidos no átrio do Edíficio I da
+Faculdade de Ciências e Tecnologia da Universidade NOVA Lisboa.
 
 ## Jantar
 
