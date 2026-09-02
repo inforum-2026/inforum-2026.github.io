@@ -20,5 +20,5 @@ na <a href="https://maps.app.goo.gl/AUjKmvyKAyQq31mJ7">baía do Seixal</a>.
 
 A organização do INForum 2026 assegurou dois autocarros que levarão os
 participantes do Campus da Caparica directamente para o local do jantar. O
-horário de saída será pelas 19:30 horas. Está também assegurado o regresso ao
+horário de saída será pelas 19:15 horas. Está também assegurado o regresso ao
 Campus, pelas 23 horas.
