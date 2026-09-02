@@ -250,6 +250,11 @@ lugar na *Sala 2*.
 ### <span id="softpt2">SOFT-PT (2) — sexta-feira, 10:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Nuno Macedo</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">10:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Type Inference Algorithms: a rewriting logic approach</span><br><span class="paper-authors">André Adrêgo, João Barbosa e Mário Florido</span></td></tr>
     <tr><td class="session-time">10:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Adversarially Verified Ephemeral Trust for Secure CI/CD Runners</span><br><span class="paper-authors">Paulo Duarte, Simão Melo de Sousa e Joel Guerreiro</span></td></tr>
