@@ -629,3 +629,11 @@ html body .dates-date s {
 .session-table tr:last-child td {
   border-bottom: none;
 }
+
+.session-chair {
+  background-color: #e8f0fe;
+  padding: 8px 12px !important;
+  font-style: italic;
+  color: #333;
+  font-weight: bold;
+}

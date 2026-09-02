@@ -140,6 +140,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 ### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Vinicius Cogo</td>
+    </tr>
+  </thead>
   <tbody>
     <tr><td class="session-time">13:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Evaluating the Practicality of Learned Cardinality Estimators in Query Optimizers</span><br><span class="paper-authors">Luís França e José Pereira</span></td></tr>
     <tr><td class="session-time">13:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">FLeeC+: A Fully Lock-Free High-Performance Caching System</span><br><span class="paper-authors">Samuel C. Fernão Pires, André Costa e João M. Lourenço</span></td></tr>
