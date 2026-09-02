@@ -138,6 +138,22 @@ lugar na *Sala 2*.
 
 **Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
 
+### <span id="keynote1">Keynote — quinta-feira, 15:30</span>
+
+<table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Alcides Fonseca</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="session-time">15:30</td>
+    <td class="session-type session-keynote">Keynote</td><td><span
+  class="paper-title">A Whirlwind Tour of Open Problems in AI Security</span>
+  <br><span class="paper-authors">Fred Oliveira</span></td></tr>
+  </tbody>
+</table>
+
 ### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
