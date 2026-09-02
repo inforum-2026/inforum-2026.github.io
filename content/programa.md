@@ -163,7 +163,7 @@ lugar na *Sala 2*.
     </tr>
   </thead>
   <tbody>
-    <tr><td class="session-time">15:30</td>
+    <tr><td class="session-time">09:00</td>
     <td class="session-type session-keynote">Keynote</td><td><span
   class="paper-title">From Conflict Resolution To Application Correctness in Distributed Systems</span>
   <br><span class="paper-authors">Nuno Preguiça</span></td></tr>
