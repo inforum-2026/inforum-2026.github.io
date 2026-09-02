@@ -4,19 +4,6 @@ title: "Programa"
 
 ## Programa
 
-**Artigos:** 20 minutos (15 min apresentação + 5 min discussão)
-
-**Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
-
-**Sala 1:** Sala 1 do Edíficio da Cantina, FCT NOVA
-
-**Sala 2:** Sala 2 do Edíficio da Cantina, FCT NOVA
-
-**Sala 3:** Sala 3 do Edíficio da Cantina, FCT NOVA
-
-**Nota:** o registo e os almoços terão lugar na *Sala Ágora*. A sessão de
-abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
-
 <div class="schedule-day">
 
 ### 3 de setembro (quinta-feira)
@@ -137,6 +124,19 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
 
 ## Sessões
 
+**Artigos:** 20 minutos (15 min apresentação + 5 min discussão)
+
+**Comunicações:** 12 minutos (10 min apresentação + 2 min discussão)
+
+**Sala 1:** Sala 1 do Edíficio da Cantina, FCT NOVA
+
+**Sala 2:** Sala 2 do Edíficio da Cantina, FCT NOVA
+
+**Sala 3:** Sala 3 do Edíficio da Cantina, FCT NOVA
+
+**Nota:** o registo e os almoços terão lugar na *Sala Ágora*. A sessão de
+abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
+
 ### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
@@ -218,7 +218,11 @@ abertura, keynotes e business meeting INForum terão lugar na *Sala 2*.
     <tr><td class="session-time">10:50</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Design and Evaluation of a RAG-Based Chatbot for Project-Based Learning Support</span><br><span class="paper-authors">Maria Joana Pires e Mário Véstias</span></td></tr>
     <tr><td class="session-time">11:10</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Synthetic data for machine learning: a study on quality and evaluation</span><br><span class="paper-authors">Rebecca Cunha, Luís Nunes e Ana Maria de Almeida</span></td></tr>
     <tr><td class="session-time">11:30</td><td class="session-type session-article">Artigo</td><td><span class="paper-title">Safety Impact of SFT and DPO on Pre-Aligned Models</span><br><span class="paper-authors">Bernardo Leite, Celestino Goncalves e Clara Silveira</span></td></tr>
-    <tr><td class="session-time">11:50</td><td class="session-type session-comm">Comunicação</td><td><span class="paper-title">AI4MDR: Agentic AI for Medical Device Regulation Certification</span><br><span class="paper-authors">Júlia Bastos e Mário Zenha-Rela</span></td></tr>
+    <tr><td class="session-time">11:50</td><td class="session-type
+  session-comm">Comunicação</td><td><span class="paper-title">AI4MDR: Agentic AI
+  for Medical Device Regulation Certification</span><br><span
+  class="paper-authors">Júlia Bastos e Mário Zenha-Rela</span></td></tr>
+  <tr><td class="session-time">12:02</td><td class="session-type session-comm">Comunicação</td><td><span class="paper-title">PPG-Based Biometric Identification in Smart Homes: The Impact of Physical Effort</span><br><span class="paper-authors">Gonçalo Costa, Ana Patrícia Rocha, Nuno Almeida and Ana Luísa M. Silva</span></td></tr>
   </tbody>
 </table>
 
