@@ -167,7 +167,7 @@ params:
     - question: "Quando e onde se irá realizar o jantar da conferência?"
       answer: "O jantar da conferência realiza-se na noite de 3 de setembro, no restaurante <a href='https://lisboaavista.wixsite.com/my-site'>Lisboa à Vista</a> situado na <a href='https://maps.app.goo.gl/aVjq3TqnjTKxdNhD7'>baía do Seixal</a>."
     - question: "Haverá transporte para o restaurante?"
-      answer: "Sim. A organização do INForum 2026 assegurou dois autocarros que levarão os participantes do Campus da Caparica directamente para o local do restaurante. O horário de saída será pelas 19 horas. Está também assegurado o regresso ao Campus, pelas 23 horas."
+      answer: "Sim. A organização do INForum 2026 assegurou dois autocarros que levarão os participantes do Campus da Caparica directamente para o local do jantar. O horário de saída será pelas 19 horas. Está também assegurado o regresso ao Campus, pelas 23 horas."
 
   news:
     - date: "2 de Setembro"
