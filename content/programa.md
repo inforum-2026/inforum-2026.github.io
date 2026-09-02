@@ -154,6 +154,22 @@ lugar na *Sala 2*.
   </tbody>
 </table>
 
+### <span id="keynote2">Keynote — sexta-feira, 09:00</span>
+
+<table class="session-table">
+  <thead>
+    <tr>
+      <td colspan="3" class="session-chair">Chair: Luís Rodrigues</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="session-time">15:30</td>
+    <td class="session-type session-keynote">Keynote</td><td><span
+  class="paper-title">From Conflict Resolution To Application Correctness in Distributed Systems</span>
+  <br><span class="paper-authors">Nuno Preguiça</span></td></tr>
+  </tbody>
+</table>
+
 ### <span id="cpdla1">CPDLA (1) — quinta-feira, 13:30</span>
 
 <table class="session-table">
