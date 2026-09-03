@@ -161,7 +161,7 @@ params:
     - question: "Poderei levar o meu carro e estacionar no Campus da Caparica?"
       answer: "Sim. Todos os participantes poderão trazer a sua viatura própria para o Campus e terão acesso a estacionamento durante os dois dias do evento."
     - question: "Existe algum mapa do Campus do Caparica?"
-      answer: "Encontra-se disponível um <a href='/docs/MAPA_CAMPUS_FCT_NOVA.pdf' target='_blank'>🗺️ Mapa do Campus</a>."
+      answer: "Encontra-se disponível um <a href='/docs/campus.pdf' target='_blank'>🗺️ Mapa do Campus</a>."
     - question: "Onde me devo dirigir quando chegar ao Campus para o registo no dia 3, quinta-feira?"
       answer: "O registo no INForum 2026 e levantamento das respectivas credenciais de cada participante terá lugar na Sala Ágora, junto ao edifício da Biblioteca da Faculdade. O almoço que se lhe segue será também realizado no mesmo espaço. Existirão sinaléticas espalhadas por todo o Campus para melhor orientar os participantes."
     - question: "Quando e onde se irá realizar o jantar da conferência?"
