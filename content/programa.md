@@ -211,7 +211,7 @@ lugar na *Sala 2*.
 <table class="session-table">
   <thead>
     <tr>
-      <td colspan="3" class="session-chair">Chair: Nuno Macedo</td>
+      <td colspan="3" class="session-chair">Chair: Simão Melo de Sousa</td>
     </tr>
   </thead>
   <tbody>
@@ -299,7 +299,7 @@ lugar na *Sala 2*.
 <table class="session-table">
   <thead>
     <tr>
-      <td colspan="3" class="session-chair">Chair: Simão Melo de Sousa</td>
+      <td colspan="3" class="session-chair">Chair: Nuno Macedo</td>
     </tr>
   </thead>
   <tbody>
