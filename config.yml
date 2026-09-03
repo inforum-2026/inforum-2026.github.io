@@ -31,6 +31,7 @@ params:
   titles:
     about: "INForum 2026"
     speakers: "Oradores Convidados"
+    posters: "Posters -- Lightning Talks"
     # schedule: "Programa"
     faq: "Perguntas Frequentes"
     news: "Notícias"
@@ -43,6 +44,7 @@ params:
   sections:
     - about
     # - schedule
+    - posters
     - faq
     - news
     - speakers
@@ -68,6 +70,8 @@ params:
     address: "Campus de Caparica, 2829-516 Caparica, Portugal"
     lat: 38.661
     lng: -9.206
+
+  posters: "Link Drive para colocar PDF dos posters <a href='https://drive.google.com/drive/folders/1IEElJVNU1U1E_RY4Dg0EQWB3SZfhkNAQ'>aqui</a>"
 
   # --- Speakers ---
   speakers:
