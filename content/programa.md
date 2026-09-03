@@ -20,15 +20,15 @@ title: "Programa"
   <tbody>
     <tr class="schedule-plenary">
       <td>11:00</td>
-      <td colspan="3">Registo</td>
+      <td colspan="3">Registo (Sala Ágora)</td>
     </tr>
     <tr class="schedule-social">
       <td>12:00</td>
-      <td colspan="3">Almoço</td>
+      <td colspan="3">Almoço (Sala Ágora)</td>
     </tr>
     <tr class="schedule-plenary">
       <td>13:20</td>
-      <td colspan="3">Abertura</td>
+      <td colspan="3">Abertura (Sala 2)</td>
     </tr>
     <tr class="schedule-session">
       <td>13:30</td>
@@ -38,7 +38,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-break">
       <td>15:15</td>
-      <td colspan="3">Coffee Break</td>
+      <td colspan="3">Coffee Break (Átrio do Edifício 1)</td>
     </tr>
     <tr class="schedule-plenary">
       <td>15:30</td>
@@ -81,7 +81,7 @@ title: "Programa"
     </tr>
     <tr class="schedule-break">
       <td>10:15</td>
-      <td colspan="3">Coffee Break</td>
+      <td colspan="3">Coffee Break (Átrio do Edifício 1)</td>
     </tr>
     <tr class="schedule-session">
       <td>10:30</td>
@@ -93,10 +93,10 @@ title: "Programa"
       <td>12:15</td>
       <td colspan="3">Almoço</td>
     </tr>
-    <tr class="schedule-plenary">
-      <td>13:30</td>
-      <td colspan="3">Industry Session</td>
-    </tr>
+    <!-- <tr class="schedule-plenary"> -->
+    <!--   <td>13:30</td> -->
+    <!--   <td colspan="3">Industry Session</td> -->
+    <!-- </tr> -->
     <tr class="schedule-session">
       <td>14:00</td>
       <td><a href="#sscc2">SSCC (2)</a></td>
@@ -105,11 +105,11 @@ title: "Programa"
     </tr>
     <tr class="schedule-break">
       <td>15:30</td>
-      <td colspan="3">Coffee Break + Pósters + Demos</td>
+      <td colspan="3">Coffee Break + Pósters + Demos (Sala Ágora)</td>
     </tr>
     <tr class="schedule-plenary">
       <td>16:30</td>
-      <td colspan="3">Business Meeting</td>
+      <td colspan="3">Business Meeting (Sala 2)</td>
     </tr>
     <tr class="schedule-plenary">
       <td>17:30</td>
