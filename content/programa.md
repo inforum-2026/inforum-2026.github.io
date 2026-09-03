@@ -85,8 +85,8 @@ title: "Programa"
     </tr>
     <tr class="schedule-session">
       <td>10:30</td>
-      <td><a href="#cpdla2">CPDLA (2)</a></td>
       <td><a href="#iacd3">IACD (3)</a></td>
+      <td><a href="#cpdla2">CPDLA (2)</a></td>
       <td><a href="#softpt2">SOFT-PT (2)</a></td>
     </tr>
     <tr class="schedule-social">
