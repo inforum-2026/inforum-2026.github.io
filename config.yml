@@ -32,6 +32,7 @@ params:
     about: "INForum 2026"
     speakers: "Oradores Convidados"
     posters: "Posters -- Lightning Talks"
+    photos: "Reportagem Fotográfica"
     # schedule: "Programa"
     faq: "Perguntas Frequentes"
     news: "Notícias"
@@ -44,6 +45,7 @@ params:
   sections:
     - about
     # - schedule
+    - photos
     - posters
     - faq
     - news
